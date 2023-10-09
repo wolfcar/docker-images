@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+    skywalking-oap:
+        image: apache/skywalking-oap-server:latest
+        container_name: skywalking-oap
+        ports:
+            - "11800:11800"
+        networks:
+            dev:
+                ipv4_address: 172.22.0.9
+
+    skywalking-ui:
+        image: apache/skywalking-ui:latest
+        container_name: skywalking-ui
+        ports:
+            - "8080:8080"
+        environment:
+            - SW_OAP_ADDRESS=skywalking-oap:11800
+        networks:
+            dev:
+                ipv4_address: 172.22.0.10
+
+networks:
+    dev:
+        external: true

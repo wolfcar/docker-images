@@ -1,0 +1,24 @@
+2023-10-07 13:51:45,002 INFO shutdown jraft server
+
+2023-10-07 13:51:45,003 INFO ========= The raft protocol is starting to close =========
+
+2023-10-07 13:51:45,038 INFO ========= The raft protocol has been closed =========
+
+2023-10-07 13:53:43,176 INFO Initializes the Raft protocol, raft-config info : {}
+
+2023-10-07 13:53:43,284 INFO ========= The raft protocol is starting... =========
+
+2023-10-07 13:53:43,304 INFO ========= The raft protocol start finished... =========
+
+2023-10-07 13:53:43,315 INFO create raft group : naming_persistent_service_v2
+
+2023-10-07 13:53:43,567 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='172.22.0.6:7848', term=1, raftClusterInfo=[172.22.0.6:7848]}
+
+2023-10-07 13:53:43,573 INFO create raft group : naming_instance_metadata
+
+2023-10-07 13:53:43,642 INFO create raft group : naming_service_metadata
+
+2023-10-07 13:53:43,664 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='172.22.0.6:7848', term=1, raftClusterInfo=[172.22.0.6:7848]}
+
+2023-10-07 13:53:43,714 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='172.22.0.6:7848', term=1, raftClusterInfo=[172.22.0.6:7848]}
+

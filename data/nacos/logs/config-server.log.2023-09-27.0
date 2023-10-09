@@ -1,0 +1,4050 @@
+2023-09-27 00:11:30,919 WARN DumpService start
+
+2023-09-27 00:11:30,920 INFO start clear all config-info.
+
+2023-09-27 00:11:30,920 WARN clear all config-info failed.
+
+2023-09-27 00:11:30,920 WARN clear all config-info-tenant failed.
+
+2023-09-27 00:11:32,078 INFO notifyConnectTimeout:100
+
+2023-09-27 00:11:32,080 INFO notifySocketTimeout:200
+
+2023-09-27 00:11:32,080 INFO isHealthCheck:true
+
+2023-09-27 00:11:32,081 INFO maxHealthCheckFailCount:12
+
+2023-09-27 00:11:32,081 INFO maxContent:10485760
+
+2023-09-27 00:12:35,233 WARN DumpService start
+
+2023-09-27 00:12:35,234 INFO start clear all config-info.
+
+2023-09-27 00:12:35,234 WARN clear all config-info failed.
+
+2023-09-27 00:12:35,234 WARN clear all config-info-tenant failed.
+
+2023-09-27 00:12:36,372 INFO notifyConnectTimeout:100
+
+2023-09-27 00:12:36,374 INFO notifySocketTimeout:200
+
+2023-09-27 00:12:36,374 INFO isHealthCheck:true
+
+2023-09-27 00:12:36,374 INFO maxHealthCheckFailCount:12
+
+2023-09-27 00:12:36,374 INFO maxContent:10485760
+
+2023-09-27 00:28:14,429 WARN DumpService start
+
+2023-09-27 00:28:14,430 INFO start clear all config-info.
+
+2023-09-27 00:28:14,430 WARN clear all config-info failed.
+
+2023-09-27 00:28:14,430 WARN clear all config-info-tenant failed.
+
+2023-09-27 00:28:40,499 INFO notifyConnectTimeout:100
+
+2023-09-27 00:28:40,501 INFO notifySocketTimeout:200
+
+2023-09-27 00:28:40,501 INFO isHealthCheck:true
+
+2023-09-27 00:28:40,501 INFO maxHealthCheckFailCount:12
+
+2023-09-27 00:28:40,501 INFO maxContent:10485760
+
+2023-09-27 00:29:18,154 WARN DumpService start
+
+2023-09-27 00:29:18,155 INFO start clear all config-info.
+
+2023-09-27 00:29:18,156 WARN clear all config-info failed.
+
+2023-09-27 00:29:18,156 WARN clear all config-info-tenant failed.
+
+2023-09-27 00:29:19,281 INFO notifyConnectTimeout:100
+
+2023-09-27 00:29:19,282 INFO notifySocketTimeout:200
+
+2023-09-27 00:29:19,282 INFO isHealthCheck:true
+
+2023-09-27 00:29:19,282 INFO maxHealthCheckFailCount:12
+
+2023-09-27 00:29:19,282 INFO maxContent:10485760
+
+2023-09-27 00:38:02,846 WARN DumpService start
+
+2023-09-27 00:38:02,846 INFO start clear all config-info.
+
+2023-09-27 00:38:02,847 WARN clear all config-info failed.
+
+2023-09-27 00:38:02,847 WARN clear all config-info-tenant failed.
+
+2023-09-27 00:38:04,066 INFO notifyConnectTimeout:100
+
+2023-09-27 00:38:04,068 INFO notifySocketTimeout:200
+
+2023-09-27 00:38:04,068 INFO isHealthCheck:true
+
+2023-09-27 00:38:04,068 INFO maxHealthCheckFailCount:12
+
+2023-09-27 00:38:04,069 INFO maxContent:10485760
+
+2023-09-27 00:38:41,673 WARN DumpService start
+
+2023-09-27 00:38:41,674 INFO start clear all config-info.
+
+2023-09-27 00:38:41,674 WARN clear all config-info failed.
+
+2023-09-27 00:38:41,674 WARN clear all config-info-tenant failed.
+
+2023-09-27 00:38:42,795 INFO notifyConnectTimeout:100
+
+2023-09-27 00:38:42,796 INFO notifySocketTimeout:200
+
+2023-09-27 00:38:42,796 INFO isHealthCheck:true
+
+2023-09-27 00:38:42,796 INFO maxHealthCheckFailCount:12
+
+2023-09-27 00:38:42,796 INFO maxContent:10485760
+
+2023-09-27 01:11:27,691 WARN DumpService start
+
+2023-09-27 01:11:27,692 INFO start clear all config-info.
+
+2023-09-27 01:11:27,692 WARN clear all config-info failed.
+
+2023-09-27 01:11:27,692 WARN clear all config-info-tenant failed.
+
+2023-09-27 01:11:28,849 INFO notifyConnectTimeout:100
+
+2023-09-27 01:11:28,851 INFO notifySocketTimeout:200
+
+2023-09-27 01:11:28,851 INFO isHealthCheck:true
+
+2023-09-27 01:11:28,851 INFO maxHealthCheckFailCount:12
+
+2023-09-27 01:11:28,851 INFO maxContent:10485760
+
+2023-09-27 01:12:31,383 WARN DumpService start
+
+2023-09-27 01:12:31,383 INFO start clear all config-info.
+
+2023-09-27 01:12:31,384 WARN clear all config-info failed.
+
+2023-09-27 01:12:31,384 WARN clear all config-info-tenant failed.
+
+2023-09-27 01:12:32,483 INFO notifyConnectTimeout:100
+
+2023-09-27 01:12:32,484 INFO notifySocketTimeout:200
+
+2023-09-27 01:12:32,484 INFO isHealthCheck:true
+
+2023-09-27 01:12:32,484 INFO maxHealthCheckFailCount:12
+
+2023-09-27 01:12:32,485 INFO maxContent:10485760
+
+2023-09-27 01:28:10,610 WARN DumpService start
+
+2023-09-27 01:28:10,610 INFO start clear all config-info.
+
+2023-09-27 01:28:10,611 WARN clear all config-info failed.
+
+2023-09-27 01:28:10,611 WARN clear all config-info-tenant failed.
+
+2023-09-27 01:28:11,746 INFO notifyConnectTimeout:100
+
+2023-09-27 01:28:11,747 INFO notifySocketTimeout:200
+
+2023-09-27 01:28:11,747 INFO isHealthCheck:true
+
+2023-09-27 01:28:11,747 INFO maxHealthCheckFailCount:12
+
+2023-09-27 01:28:11,747 INFO maxContent:10485760
+
+2023-09-27 01:29:14,237 WARN DumpService start
+
+2023-09-27 01:29:14,237 INFO start clear all config-info.
+
+2023-09-27 01:29:14,238 WARN clear all config-info failed.
+
+2023-09-27 01:29:14,238 WARN clear all config-info-tenant failed.
+
+2023-09-27 01:29:15,659 INFO notifyConnectTimeout:100
+
+2023-09-27 01:29:15,660 INFO notifySocketTimeout:200
+
+2023-09-27 01:29:15,660 INFO isHealthCheck:true
+
+2023-09-27 01:29:15,660 INFO maxHealthCheckFailCount:12
+
+2023-09-27 01:29:15,660 INFO maxContent:10485760
+
+2023-09-27 01:29:53,187 WARN DumpService start
+
+2023-09-27 01:29:53,188 INFO start clear all config-info.
+
+2023-09-27 01:29:53,188 WARN clear all config-info failed.
+
+2023-09-27 01:29:53,188 WARN clear all config-info-tenant failed.
+
+2023-09-27 01:29:54,282 INFO notifyConnectTimeout:100
+
+2023-09-27 01:29:54,283 INFO notifySocketTimeout:200
+
+2023-09-27 01:29:54,283 INFO isHealthCheck:true
+
+2023-09-27 01:29:54,283 INFO maxHealthCheckFailCount:12
+
+2023-09-27 01:29:54,283 INFO maxContent:10485760
+
+2023-09-27 01:45:31,972 WARN DumpService start
+
+2023-09-27 01:45:31,972 INFO start clear all config-info.
+
+2023-09-27 01:45:31,973 WARN clear all config-info failed.
+
+2023-09-27 01:45:31,973 WARN clear all config-info-tenant failed.
+
+2023-09-27 01:45:33,059 INFO notifyConnectTimeout:100
+
+2023-09-27 01:45:33,060 INFO notifySocketTimeout:200
+
+2023-09-27 01:45:33,060 INFO isHealthCheck:true
+
+2023-09-27 01:45:33,061 INFO maxHealthCheckFailCount:12
+
+2023-09-27 01:45:33,061 INFO maxContent:10485760
+
+2023-09-27 02:01:10,718 WARN DumpService start
+
+2023-09-27 02:01:10,718 INFO start clear all config-info.
+
+2023-09-27 02:01:10,718 WARN clear all config-info failed.
+
+2023-09-27 02:01:10,718 WARN clear all config-info-tenant failed.
+
+2023-09-27 02:01:37,152 INFO notifyConnectTimeout:100
+
+2023-09-27 02:01:37,154 INFO notifySocketTimeout:200
+
+2023-09-27 02:01:37,154 INFO isHealthCheck:true
+
+2023-09-27 02:01:37,154 INFO maxHealthCheckFailCount:12
+
+2023-09-27 02:01:37,154 INFO maxContent:10485760
+
+2023-09-27 02:02:14,705 WARN DumpService start
+
+2023-09-27 02:02:14,706 INFO start clear all config-info.
+
+2023-09-27 02:02:14,706 WARN clear all config-info failed.
+
+2023-09-27 02:02:14,706 WARN clear all config-info-tenant failed.
+
+2023-09-27 02:02:15,803 INFO notifyConnectTimeout:100
+
+2023-09-27 02:02:15,805 INFO notifySocketTimeout:200
+
+2023-09-27 02:02:15,805 INFO isHealthCheck:true
+
+2023-09-27 02:02:15,805 INFO maxHealthCheckFailCount:12
+
+2023-09-27 02:02:15,805 INFO maxContent:10485760
+
+2023-09-27 02:02:53,397 WARN DumpService start
+
+2023-09-27 02:02:53,398 INFO start clear all config-info.
+
+2023-09-27 02:02:53,399 WARN clear all config-info failed.
+
+2023-09-27 02:02:53,399 WARN clear all config-info-tenant failed.
+
+2023-09-27 02:02:54,527 INFO notifyConnectTimeout:100
+
+2023-09-27 02:02:54,528 INFO notifySocketTimeout:200
+
+2023-09-27 02:02:54,528 INFO isHealthCheck:true
+
+2023-09-27 02:02:54,528 INFO maxHealthCheckFailCount:12
+
+2023-09-27 02:02:54,528 INFO maxContent:10485760
+
+2023-09-27 02:03:07,162 WARN DumpService start
+
+2023-09-27 02:03:07,162 INFO start clear all config-info.
+
+2023-09-27 02:03:07,162 WARN clear all config-info failed.
+
+2023-09-27 02:03:07,163 WARN clear all config-info-tenant failed.
+
+2023-09-27 02:03:08,287 INFO notifyConnectTimeout:100
+
+2023-09-27 02:03:08,288 INFO notifySocketTimeout:200
+
+2023-09-27 02:03:08,288 INFO isHealthCheck:true
+
+2023-09-27 02:03:08,288 INFO maxHealthCheckFailCount:12
+
+2023-09-27 02:03:08,289 INFO maxContent:10485760
+
+2023-09-27 02:18:46,022 WARN DumpService start
+
+2023-09-27 02:18:46,023 INFO start clear all config-info.
+
+2023-09-27 02:18:46,023 WARN clear all config-info failed.
+
+2023-09-27 02:18:46,023 WARN clear all config-info-tenant failed.
+
+2023-09-27 02:34:12,179 INFO notifyConnectTimeout:100
+
+2023-09-27 02:34:12,181 INFO notifySocketTimeout:200
+
+2023-09-27 02:34:12,181 INFO isHealthCheck:true
+
+2023-09-27 02:34:12,181 INFO maxHealthCheckFailCount:12
+
+2023-09-27 02:34:12,181 INFO maxContent:10485760
+
+2023-09-27 02:34:49,818 WARN DumpService start
+
+2023-09-27 02:34:49,819 INFO start clear all config-info.
+
+2023-09-27 02:34:49,820 WARN clear all config-info failed.
+
+2023-09-27 02:34:49,820 WARN clear all config-info-tenant failed.
+
+2023-09-27 02:34:51,339 INFO notifyConnectTimeout:100
+
+2023-09-27 02:34:51,341 INFO notifySocketTimeout:200
+
+2023-09-27 02:34:51,341 INFO isHealthCheck:true
+
+2023-09-27 02:34:51,341 INFO maxHealthCheckFailCount:12
+
+2023-09-27 02:34:51,341 INFO maxContent:10485760
+
+2023-09-27 02:35:53,886 WARN DumpService start
+
+2023-09-27 02:35:53,886 INFO start clear all config-info.
+
+2023-09-27 02:35:53,887 WARN clear all config-info failed.
+
+2023-09-27 02:35:53,887 WARN clear all config-info-tenant failed.
+
+2023-09-27 02:35:54,989 INFO notifyConnectTimeout:100
+
+2023-09-27 02:35:54,990 INFO notifySocketTimeout:200
+
+2023-09-27 02:35:54,990 INFO isHealthCheck:true
+
+2023-09-27 02:35:54,990 INFO maxHealthCheckFailCount:12
+
+2023-09-27 02:35:54,990 INFO maxContent:10485760
+
+2023-09-27 02:51:58,471 WARN DumpService start
+
+2023-09-27 02:51:58,471 INFO start clear all config-info.
+
+2023-09-27 02:51:58,472 WARN clear all config-info failed.
+
+2023-09-27 02:51:58,472 WARN clear all config-info-tenant failed.
+
+2023-09-27 02:51:59,655 INFO notifyConnectTimeout:100
+
+2023-09-27 02:51:59,656 INFO notifySocketTimeout:200
+
+2023-09-27 02:51:59,657 INFO isHealthCheck:true
+
+2023-09-27 02:51:59,657 INFO maxHealthCheckFailCount:12
+
+2023-09-27 02:51:59,657 INFO maxContent:10485760
+
+2023-09-27 02:52:37,263 WARN DumpService start
+
+2023-09-27 02:52:37,264 INFO start clear all config-info.
+
+2023-09-27 02:52:37,264 WARN clear all config-info failed.
+
+2023-09-27 02:52:37,264 WARN clear all config-info-tenant failed.
+
+2023-09-27 02:52:38,430 INFO notifyConnectTimeout:100
+
+2023-09-27 02:52:38,432 INFO notifySocketTimeout:200
+
+2023-09-27 02:52:38,432 INFO isHealthCheck:true
+
+2023-09-27 02:52:38,432 INFO maxHealthCheckFailCount:12
+
+2023-09-27 02:52:38,432 INFO maxContent:10485760
+
+2023-09-27 03:08:30,820 WARN DumpService start
+
+2023-09-27 03:08:30,821 INFO start clear all config-info.
+
+2023-09-27 03:08:30,821 WARN clear all config-info failed.
+
+2023-09-27 03:08:30,821 WARN clear all config-info-tenant failed.
+
+2023-09-27 03:08:31,943 INFO notifyConnectTimeout:100
+
+2023-09-27 03:08:31,944 INFO notifySocketTimeout:200
+
+2023-09-27 03:08:31,944 INFO isHealthCheck:true
+
+2023-09-27 03:08:31,944 INFO maxHealthCheckFailCount:12
+
+2023-09-27 03:08:31,944 INFO maxContent:10485760
+
+2023-09-27 03:09:35,141 WARN DumpService start
+
+2023-09-27 03:09:35,142 INFO start clear all config-info.
+
+2023-09-27 03:09:35,142 WARN clear all config-info failed.
+
+2023-09-27 03:09:35,142 WARN clear all config-info-tenant failed.
+
+2023-09-27 03:09:36,318 INFO notifyConnectTimeout:100
+
+2023-09-27 03:09:36,319 INFO notifySocketTimeout:200
+
+2023-09-27 03:09:36,320 INFO isHealthCheck:true
+
+2023-09-27 03:09:36,320 INFO maxHealthCheckFailCount:12
+
+2023-09-27 03:09:36,320 INFO maxContent:10485760
+
+2023-09-27 03:10:14,162 WARN DumpService start
+
+2023-09-27 03:10:14,163 INFO start clear all config-info.
+
+2023-09-27 03:10:14,163 WARN clear all config-info failed.
+
+2023-09-27 03:10:14,163 WARN clear all config-info-tenant failed.
+
+2023-09-27 03:10:15,292 INFO notifyConnectTimeout:100
+
+2023-09-27 03:10:15,293 INFO notifySocketTimeout:200
+
+2023-09-27 03:10:15,293 INFO isHealthCheck:true
+
+2023-09-27 03:10:15,293 INFO maxHealthCheckFailCount:12
+
+2023-09-27 03:10:15,293 INFO maxContent:10485760
+
+2023-09-27 03:10:28,204 WARN DumpService start
+
+2023-09-27 03:10:28,204 INFO start clear all config-info.
+
+2023-09-27 03:10:28,205 WARN clear all config-info failed.
+
+2023-09-27 03:10:28,205 WARN clear all config-info-tenant failed.
+
+2023-09-27 03:10:29,362 INFO notifyConnectTimeout:100
+
+2023-09-27 03:10:29,364 INFO notifySocketTimeout:200
+
+2023-09-27 03:10:29,364 INFO isHealthCheck:true
+
+2023-09-27 03:10:29,364 INFO maxHealthCheckFailCount:12
+
+2023-09-27 03:10:29,364 INFO maxContent:10485760
+
+2023-09-27 03:41:32,097 WARN DumpService start
+
+2023-09-27 03:41:32,097 INFO start clear all config-info.
+
+2023-09-27 03:41:32,097 WARN clear all config-info failed.
+
+2023-09-27 03:41:32,097 WARN clear all config-info-tenant failed.
+
+2023-09-27 03:41:58,435 INFO notifyConnectTimeout:100
+
+2023-09-27 03:41:58,437 INFO notifySocketTimeout:200
+
+2023-09-27 03:41:58,437 INFO isHealthCheck:true
+
+2023-09-27 03:41:58,437 INFO maxHealthCheckFailCount:12
+
+2023-09-27 03:41:58,437 INFO maxContent:10485760
+
+2023-09-27 03:42:36,018 WARN DumpService start
+
+2023-09-27 03:42:36,019 INFO start clear all config-info.
+
+2023-09-27 03:42:36,019 WARN clear all config-info failed.
+
+2023-09-27 03:42:36,019 WARN clear all config-info-tenant failed.
+
+2023-09-27 03:42:37,187 INFO notifyConnectTimeout:100
+
+2023-09-27 03:42:37,189 INFO notifySocketTimeout:200
+
+2023-09-27 03:42:37,189 INFO isHealthCheck:true
+
+2023-09-27 03:42:37,189 INFO maxHealthCheckFailCount:12
+
+2023-09-27 03:42:37,189 INFO maxContent:10485760
+
+2023-09-27 03:43:15,206 WARN DumpService start
+
+2023-09-27 03:43:15,207 INFO start clear all config-info.
+
+2023-09-27 03:43:15,207 WARN clear all config-info failed.
+
+2023-09-27 03:43:15,207 WARN clear all config-info-tenant failed.
+
+2023-09-27 03:43:16,370 INFO notifyConnectTimeout:100
+
+2023-09-27 03:43:16,371 INFO notifySocketTimeout:200
+
+2023-09-27 03:43:16,372 INFO isHealthCheck:true
+
+2023-09-27 03:43:16,373 INFO maxHealthCheckFailCount:12
+
+2023-09-27 03:43:16,373 INFO maxContent:10485760
+
+2023-09-27 03:43:29,324 WARN DumpService start
+
+2023-09-27 03:43:29,325 INFO start clear all config-info.
+
+2023-09-27 03:43:29,325 WARN clear all config-info failed.
+
+2023-09-27 03:43:29,325 WARN clear all config-info-tenant failed.
+
+2023-09-27 03:58:55,434 INFO notifyConnectTimeout:100
+
+2023-09-27 03:58:55,436 INFO notifySocketTimeout:200
+
+2023-09-27 03:58:55,436 INFO isHealthCheck:true
+
+2023-09-27 03:58:55,436 INFO maxHealthCheckFailCount:12
+
+2023-09-27 03:58:55,436 INFO maxContent:10485760
+
+2023-09-27 04:14:33,120 WARN DumpService start
+
+2023-09-27 04:14:33,120 INFO start clear all config-info.
+
+2023-09-27 04:14:33,121 WARN clear all config-info failed.
+
+2023-09-27 04:14:33,121 WARN clear all config-info-tenant failed.
+
+2023-09-27 04:14:34,225 INFO notifyConnectTimeout:100
+
+2023-09-27 04:14:34,227 INFO notifySocketTimeout:200
+
+2023-09-27 04:14:34,227 INFO isHealthCheck:true
+
+2023-09-27 04:14:34,227 INFO maxHealthCheckFailCount:12
+
+2023-09-27 04:14:34,227 INFO maxContent:10485760
+
+2023-09-27 04:15:37,080 WARN DumpService start
+
+2023-09-27 04:15:37,081 INFO start clear all config-info.
+
+2023-09-27 04:15:37,081 WARN clear all config-info failed.
+
+2023-09-27 04:15:37,081 WARN clear all config-info-tenant failed.
+
+2023-09-27 04:15:38,230 INFO notifyConnectTimeout:100
+
+2023-09-27 04:15:38,232 INFO notifySocketTimeout:200
+
+2023-09-27 04:15:38,232 INFO isHealthCheck:true
+
+2023-09-27 04:15:38,232 INFO maxHealthCheckFailCount:12
+
+2023-09-27 04:15:38,232 INFO maxContent:10485760
+
+2023-09-27 04:28:50,084 WARN DumpService start
+
+2023-09-27 04:28:50,084 INFO start clear all config-info.
+
+2023-09-27 04:28:50,085 WARN clear all config-info failed.
+
+2023-09-27 04:28:50,085 WARN clear all config-info-tenant failed.
+
+2023-09-27 04:28:51,233 INFO notifyConnectTimeout:100
+
+2023-09-27 04:28:51,235 INFO notifySocketTimeout:200
+
+2023-09-27 04:28:51,235 INFO isHealthCheck:true
+
+2023-09-27 04:28:51,235 INFO maxHealthCheckFailCount:12
+
+2023-09-27 04:28:51,235 INFO maxContent:10485760
+
+2023-09-27 04:44:42,971 WARN DumpService start
+
+2023-09-27 04:44:42,971 INFO start clear all config-info.
+
+2023-09-27 04:44:42,972 WARN clear all config-info failed.
+
+2023-09-27 04:44:42,972 WARN clear all config-info-tenant failed.
+
+2023-09-27 04:44:44,079 INFO notifyConnectTimeout:100
+
+2023-09-27 04:44:44,080 INFO notifySocketTimeout:200
+
+2023-09-27 04:44:44,081 INFO isHealthCheck:true
+
+2023-09-27 04:44:44,081 INFO maxHealthCheckFailCount:12
+
+2023-09-27 04:44:44,081 INFO maxContent:10485760
+
+2023-09-27 04:45:22,441 WARN DumpService start
+
+2023-09-27 04:45:22,441 INFO start clear all config-info.
+
+2023-09-27 04:45:22,442 WARN clear all config-info failed.
+
+2023-09-27 04:45:22,442 WARN clear all config-info-tenant failed.
+
+2023-09-27 05:00:36,165 INFO notifyConnectTimeout:100
+
+2023-09-27 05:00:36,167 INFO notifySocketTimeout:200
+
+2023-09-27 05:00:36,167 INFO isHealthCheck:true
+
+2023-09-27 05:00:36,167 INFO maxHealthCheckFailCount:12
+
+2023-09-27 05:00:36,167 INFO maxContent:10485760
+
+2023-09-27 05:01:13,856 WARN DumpService start
+
+2023-09-27 05:01:13,856 INFO start clear all config-info.
+
+2023-09-27 05:01:13,857 WARN clear all config-info failed.
+
+2023-09-27 05:01:13,857 WARN clear all config-info-tenant failed.
+
+2023-09-27 05:01:14,992 INFO notifyConnectTimeout:100
+
+2023-09-27 05:01:14,993 INFO notifySocketTimeout:200
+
+2023-09-27 05:01:14,993 INFO isHealthCheck:true
+
+2023-09-27 05:01:14,993 INFO maxHealthCheckFailCount:12
+
+2023-09-27 05:01:14,993 INFO maxContent:10485760
+
+2023-09-27 05:02:17,679 WARN DumpService start
+
+2023-09-27 05:02:17,679 INFO start clear all config-info.
+
+2023-09-27 05:02:17,680 WARN clear all config-info failed.
+
+2023-09-27 05:02:17,680 WARN clear all config-info-tenant failed.
+
+2023-09-27 05:02:18,812 INFO notifyConnectTimeout:100
+
+2023-09-27 05:02:18,813 INFO notifySocketTimeout:200
+
+2023-09-27 05:02:18,814 INFO isHealthCheck:true
+
+2023-09-27 05:02:18,814 INFO maxHealthCheckFailCount:12
+
+2023-09-27 05:02:18,814 INFO maxContent:10485760
+
+2023-09-27 05:18:03,716 WARN DumpService start
+
+2023-09-27 05:18:03,717 INFO start clear all config-info.
+
+2023-09-27 05:18:03,717 WARN clear all config-info failed.
+
+2023-09-27 05:18:03,717 WARN clear all config-info-tenant failed.
+
+2023-09-27 05:18:30,091 INFO notifyConnectTimeout:100
+
+2023-09-27 05:18:30,092 INFO notifySocketTimeout:200
+
+2023-09-27 05:18:30,092 INFO isHealthCheck:true
+
+2023-09-27 05:18:30,092 INFO maxHealthCheckFailCount:12
+
+2023-09-27 05:18:30,092 INFO maxContent:10485760
+
+2023-09-27 05:19:07,647 WARN DumpService start
+
+2023-09-27 05:19:07,648 INFO start clear all config-info.
+
+2023-09-27 05:19:07,648 WARN clear all config-info failed.
+
+2023-09-27 05:19:07,648 WARN clear all config-info-tenant failed.
+
+2023-09-27 05:19:08,752 INFO notifyConnectTimeout:100
+
+2023-09-27 05:19:08,753 INFO notifySocketTimeout:200
+
+2023-09-27 05:19:08,753 INFO isHealthCheck:true
+
+2023-09-27 05:19:08,753 INFO maxHealthCheckFailCount:12
+
+2023-09-27 05:19:08,753 INFO maxContent:10485760
+
+2023-09-27 05:36:02,558 WARN DumpService start
+
+2023-09-27 05:36:02,558 INFO start clear all config-info.
+
+2023-09-27 05:36:02,559 WARN clear all config-info failed.
+
+2023-09-27 05:36:02,559 WARN clear all config-info-tenant failed.
+
+2023-09-27 05:36:04,137 INFO notifyConnectTimeout:100
+
+2023-09-27 05:36:04,139 INFO notifySocketTimeout:200
+
+2023-09-27 05:36:04,139 INFO isHealthCheck:true
+
+2023-09-27 05:36:04,139 INFO maxHealthCheckFailCount:12
+
+2023-09-27 05:36:04,139 INFO maxContent:10485760
+
+2023-09-27 05:37:06,703 WARN DumpService start
+
+2023-09-27 05:37:06,703 INFO start clear all config-info.
+
+2023-09-27 05:37:06,703 WARN clear all config-info failed.
+
+2023-09-27 05:37:06,703 WARN clear all config-info-tenant failed.
+
+2023-09-27 05:37:08,245 INFO notifyConnectTimeout:100
+
+2023-09-27 05:37:08,246 INFO notifySocketTimeout:200
+
+2023-09-27 05:37:08,247 INFO isHealthCheck:true
+
+2023-09-27 05:37:08,247 INFO maxHealthCheckFailCount:12
+
+2023-09-27 05:37:08,247 INFO maxContent:10485760
+
+2023-09-27 05:52:56,917 WARN DumpService start
+
+2023-09-27 05:52:56,918 INFO start clear all config-info.
+
+2023-09-27 05:52:56,918 WARN clear all config-info failed.
+
+2023-09-27 05:52:56,918 WARN clear all config-info-tenant failed.
+
+2023-09-27 05:53:23,016 INFO notifyConnectTimeout:100
+
+2023-09-27 05:53:23,018 INFO notifySocketTimeout:200
+
+2023-09-27 05:53:23,018 INFO isHealthCheck:true
+
+2023-09-27 05:53:23,018 INFO maxHealthCheckFailCount:12
+
+2023-09-27 05:53:23,018 INFO maxContent:10485760
+
+2023-09-27 05:54:00,712 WARN DumpService start
+
+2023-09-27 05:54:00,712 INFO start clear all config-info.
+
+2023-09-27 05:54:00,713 WARN clear all config-info failed.
+
+2023-09-27 05:54:00,713 WARN clear all config-info-tenant failed.
+
+2023-09-27 05:54:01,896 INFO notifyConnectTimeout:100
+
+2023-09-27 05:54:01,897 INFO notifySocketTimeout:200
+
+2023-09-27 05:54:01,898 INFO isHealthCheck:true
+
+2023-09-27 05:54:01,898 INFO maxHealthCheckFailCount:12
+
+2023-09-27 05:54:01,898 INFO maxContent:10485760
+
+2023-09-27 05:54:14,659 WARN DumpService start
+
+2023-09-27 05:54:14,659 INFO start clear all config-info.
+
+2023-09-27 05:54:14,660 WARN clear all config-info failed.
+
+2023-09-27 05:54:14,660 WARN clear all config-info-tenant failed.
+
+2023-09-27 05:54:15,771 INFO notifyConnectTimeout:100
+
+2023-09-27 05:54:15,772 INFO notifySocketTimeout:200
+
+2023-09-27 05:54:15,772 INFO isHealthCheck:true
+
+2023-09-27 05:54:15,772 INFO maxHealthCheckFailCount:12
+
+2023-09-27 05:54:15,772 INFO maxContent:10485760
+
+2023-09-27 06:09:53,516 WARN DumpService start
+
+2023-09-27 06:09:53,517 INFO start clear all config-info.
+
+2023-09-27 06:09:53,518 WARN clear all config-info failed.
+
+2023-09-27 06:09:53,518 WARN clear all config-info-tenant failed.
+
+2023-09-27 06:09:54,652 INFO notifyConnectTimeout:100
+
+2023-09-27 06:09:54,653 INFO notifySocketTimeout:200
+
+2023-09-27 06:09:54,654 INFO isHealthCheck:true
+
+2023-09-27 06:09:54,654 INFO maxHealthCheckFailCount:12
+
+2023-09-27 06:09:54,654 INFO maxContent:10485760
+
+2023-09-27 06:25:57,553 WARN DumpService start
+
+2023-09-27 06:25:57,553 INFO start clear all config-info.
+
+2023-09-27 06:25:57,554 WARN clear all config-info failed.
+
+2023-09-27 06:25:57,554 WARN clear all config-info-tenant failed.
+
+2023-09-27 06:25:58,622 INFO notifyConnectTimeout:100
+
+2023-09-27 06:25:58,624 INFO notifySocketTimeout:200
+
+2023-09-27 06:25:58,624 INFO isHealthCheck:true
+
+2023-09-27 06:25:58,624 INFO maxHealthCheckFailCount:12
+
+2023-09-27 06:25:58,624 INFO maxContent:10485760
+
+2023-09-27 06:26:36,529 WARN DumpService start
+
+2023-09-27 06:26:36,529 INFO start clear all config-info.
+
+2023-09-27 06:26:36,529 WARN clear all config-info failed.
+
+2023-09-27 06:26:36,529 WARN clear all config-info-tenant failed.
+
+2023-09-27 06:26:37,663 INFO notifyConnectTimeout:100
+
+2023-09-27 06:26:37,664 INFO notifySocketTimeout:200
+
+2023-09-27 06:26:37,664 INFO isHealthCheck:true
+
+2023-09-27 06:26:37,665 INFO maxHealthCheckFailCount:12
+
+2023-09-27 06:26:37,665 INFO maxContent:10485760
+
+2023-09-27 06:27:15,416 WARN DumpService start
+
+2023-09-27 06:27:15,417 INFO start clear all config-info.
+
+2023-09-27 06:27:15,418 WARN clear all config-info failed.
+
+2023-09-27 06:27:15,418 WARN clear all config-info-tenant failed.
+
+2023-09-27 06:27:16,524 INFO notifyConnectTimeout:100
+
+2023-09-27 06:27:16,525 INFO notifySocketTimeout:200
+
+2023-09-27 06:27:16,525 INFO isHealthCheck:true
+
+2023-09-27 06:27:16,526 INFO maxHealthCheckFailCount:12
+
+2023-09-27 06:27:16,526 INFO maxContent:10485760
+
+2023-09-27 06:27:29,506 WARN DumpService start
+
+2023-09-27 06:27:29,506 INFO start clear all config-info.
+
+2023-09-27 06:27:29,507 WARN clear all config-info failed.
+
+2023-09-27 06:27:29,507 WARN clear all config-info-tenant failed.
+
+2023-09-27 06:29:48,289 INFO notifyConnectTimeout:100
+
+2023-09-27 06:29:48,291 INFO notifySocketTimeout:200
+
+2023-09-27 06:29:48,291 INFO isHealthCheck:true
+
+2023-09-27 06:29:48,291 INFO maxHealthCheckFailCount:12
+
+2023-09-27 06:29:48,291 INFO maxContent:10485760
+
+2023-09-27 06:30:01,136 WARN DumpService start
+
+2023-09-27 06:30:01,137 INFO start clear all config-info.
+
+2023-09-27 06:30:01,137 WARN clear all config-info failed.
+
+2023-09-27 06:30:01,137 WARN clear all config-info-tenant failed.
+
+2023-09-27 06:30:02,738 INFO notifyConnectTimeout:100
+
+2023-09-27 06:30:02,739 INFO notifySocketTimeout:200
+
+2023-09-27 06:30:02,740 INFO isHealthCheck:true
+
+2023-09-27 06:30:02,740 INFO maxHealthCheckFailCount:12
+
+2023-09-27 06:30:02,740 INFO maxContent:10485760
+
+2023-09-27 06:45:40,486 WARN DumpService start
+
+2023-09-27 06:45:40,487 INFO start clear all config-info.
+
+2023-09-27 06:45:40,487 WARN clear all config-info failed.
+
+2023-09-27 06:45:40,487 WARN clear all config-info-tenant failed.
+
+2023-09-27 06:45:41,613 INFO notifyConnectTimeout:100
+
+2023-09-27 06:45:41,614 INFO notifySocketTimeout:200
+
+2023-09-27 06:45:41,615 INFO isHealthCheck:true
+
+2023-09-27 06:45:41,615 INFO maxHealthCheckFailCount:12
+
+2023-09-27 06:45:41,615 INFO maxContent:10485760
+
+2023-09-27 06:47:09,717 WARN DumpService start
+
+2023-09-27 06:47:09,718 INFO start clear all config-info.
+
+2023-09-27 06:47:09,718 WARN clear all config-info failed.
+
+2023-09-27 06:47:09,718 WARN clear all config-info-tenant failed.
+
+2023-09-27 06:47:10,816 INFO notifyConnectTimeout:100
+
+2023-09-27 06:47:10,818 INFO notifySocketTimeout:200
+
+2023-09-27 06:47:10,819 INFO isHealthCheck:true
+
+2023-09-27 06:47:10,819 INFO maxHealthCheckFailCount:12
+
+2023-09-27 06:47:10,819 INFO maxContent:10485760
+
+2023-09-27 07:03:13,780 WARN DumpService start
+
+2023-09-27 07:03:13,781 INFO start clear all config-info.
+
+2023-09-27 07:03:13,781 WARN clear all config-info failed.
+
+2023-09-27 07:03:13,782 WARN clear all config-info-tenant failed.
+
+2023-09-27 07:03:14,890 INFO notifyConnectTimeout:100
+
+2023-09-27 07:03:14,892 INFO notifySocketTimeout:200
+
+2023-09-27 07:03:14,892 INFO isHealthCheck:true
+
+2023-09-27 07:03:14,892 INFO maxHealthCheckFailCount:12
+
+2023-09-27 07:03:14,892 INFO maxContent:10485760
+
+2023-09-27 07:03:52,471 WARN DumpService start
+
+2023-09-27 07:03:52,471 INFO start clear all config-info.
+
+2023-09-27 07:03:52,472 WARN clear all config-info failed.
+
+2023-09-27 07:03:52,472 WARN clear all config-info-tenant failed.
+
+2023-09-27 07:03:54,011 INFO notifyConnectTimeout:100
+
+2023-09-27 07:03:54,013 INFO notifySocketTimeout:200
+
+2023-09-27 07:03:54,013 INFO isHealthCheck:true
+
+2023-09-27 07:03:54,013 INFO maxHealthCheckFailCount:12
+
+2023-09-27 07:03:54,013 INFO maxContent:10485760
+
+2023-09-27 07:19:56,578 WARN DumpService start
+
+2023-09-27 07:19:56,579 INFO start clear all config-info.
+
+2023-09-27 07:19:56,579 WARN clear all config-info failed.
+
+2023-09-27 07:19:56,579 WARN clear all config-info-tenant failed.
+
+2023-09-27 07:19:57,741 INFO notifyConnectTimeout:100
+
+2023-09-27 07:19:57,742 INFO notifySocketTimeout:200
+
+2023-09-27 07:19:57,742 INFO isHealthCheck:true
+
+2023-09-27 07:19:57,742 INFO maxHealthCheckFailCount:12
+
+2023-09-27 07:19:57,743 INFO maxContent:10485760
+
+2023-09-27 07:21:00,819 WARN DumpService start
+
+2023-09-27 07:21:00,820 INFO start clear all config-info.
+
+2023-09-27 07:21:00,820 WARN clear all config-info failed.
+
+2023-09-27 07:21:00,820 WARN clear all config-info-tenant failed.
+
+2023-09-27 07:21:01,937 INFO notifyConnectTimeout:100
+
+2023-09-27 07:21:01,938 INFO notifySocketTimeout:200
+
+2023-09-27 07:21:01,938 INFO isHealthCheck:true
+
+2023-09-27 07:21:01,938 INFO maxHealthCheckFailCount:12
+
+2023-09-27 07:21:01,938 INFO maxContent:10485760
+
+2023-09-27 07:31:24,010 WARN DumpService start
+
+2023-09-27 07:31:24,010 INFO start clear all config-info.
+
+2023-09-27 07:31:24,011 WARN clear all config-info failed.
+
+2023-09-27 07:31:24,011 WARN clear all config-info-tenant failed.
+
+2023-09-27 07:31:25,143 INFO notifyConnectTimeout:100
+
+2023-09-27 07:31:25,144 INFO notifySocketTimeout:200
+
+2023-09-27 07:31:25,145 INFO isHealthCheck:true
+
+2023-09-27 07:31:25,146 INFO maxHealthCheckFailCount:12
+
+2023-09-27 07:31:25,146 INFO maxContent:10485760
+
+2023-09-27 07:48:20,421 WARN DumpService start
+
+2023-09-27 07:48:20,423 INFO start clear all config-info.
+
+2023-09-27 07:48:20,423 WARN clear all config-info failed.
+
+2023-09-27 07:48:20,424 WARN clear all config-info-tenant failed.
+
+2023-09-27 07:48:21,544 INFO notifyConnectTimeout:100
+
+2023-09-27 07:48:21,545 INFO notifySocketTimeout:200
+
+2023-09-27 07:48:21,545 INFO isHealthCheck:true
+
+2023-09-27 07:48:21,545 INFO maxHealthCheckFailCount:12
+
+2023-09-27 07:48:21,545 INFO maxContent:10485760
+
+2023-09-27 08:04:21,379 WARN DumpService start
+
+2023-09-27 08:04:21,380 INFO start clear all config-info.
+
+2023-09-27 08:04:21,380 WARN clear all config-info failed.
+
+2023-09-27 08:04:21,380 WARN clear all config-info-tenant failed.
+
+2023-09-27 08:04:22,515 INFO notifyConnectTimeout:100
+
+2023-09-27 08:04:22,516 INFO notifySocketTimeout:200
+
+2023-09-27 08:04:22,516 INFO isHealthCheck:true
+
+2023-09-27 08:04:22,516 INFO maxHealthCheckFailCount:12
+
+2023-09-27 08:04:22,516 INFO maxContent:10485760
+
+2023-09-27 08:05:25,426 WARN DumpService start
+
+2023-09-27 08:05:25,426 INFO start clear all config-info.
+
+2023-09-27 08:05:25,427 WARN clear all config-info failed.
+
+2023-09-27 08:05:25,427 WARN clear all config-info-tenant failed.
+
+2023-09-27 08:05:26,583 INFO notifyConnectTimeout:100
+
+2023-09-27 08:05:26,584 INFO notifySocketTimeout:200
+
+2023-09-27 08:05:26,585 INFO isHealthCheck:true
+
+2023-09-27 08:05:26,587 INFO maxHealthCheckFailCount:12
+
+2023-09-27 08:05:26,587 INFO maxContent:10485760
+
+2023-09-27 08:05:39,442 WARN DumpService start
+
+2023-09-27 08:05:39,443 INFO start clear all config-info.
+
+2023-09-27 08:05:39,443 WARN clear all config-info failed.
+
+2023-09-27 08:05:39,443 WARN clear all config-info-tenant failed.
+
+2023-09-27 08:05:40,542 INFO notifyConnectTimeout:100
+
+2023-09-27 08:05:40,544 INFO notifySocketTimeout:200
+
+2023-09-27 08:05:40,544 INFO isHealthCheck:true
+
+2023-09-27 08:05:40,544 INFO maxHealthCheckFailCount:12
+
+2023-09-27 08:05:40,544 INFO maxContent:10485760
+
+2023-09-27 08:22:08,501 WARN DumpService start
+
+2023-09-27 08:22:08,502 INFO start clear all config-info.
+
+2023-09-27 08:22:08,503 WARN clear all config-info failed.
+
+2023-09-27 08:22:08,503 WARN clear all config-info-tenant failed.
+
+2023-09-27 08:22:09,649 INFO notifyConnectTimeout:100
+
+2023-09-27 08:22:09,650 INFO notifySocketTimeout:200
+
+2023-09-27 08:22:09,650 INFO isHealthCheck:true
+
+2023-09-27 08:22:09,650 INFO maxHealthCheckFailCount:12
+
+2023-09-27 08:22:09,650 INFO maxContent:10485760
+
+2023-09-27 08:22:47,665 WARN DumpService start
+
+2023-09-27 08:22:47,666 INFO start clear all config-info.
+
+2023-09-27 08:22:47,666 WARN clear all config-info failed.
+
+2023-09-27 08:22:47,666 WARN clear all config-info-tenant failed.
+
+2023-09-27 08:22:48,843 INFO notifyConnectTimeout:100
+
+2023-09-27 08:22:48,845 INFO notifySocketTimeout:200
+
+2023-09-27 08:22:48,846 INFO isHealthCheck:true
+
+2023-09-27 08:22:48,846 INFO maxHealthCheckFailCount:12
+
+2023-09-27 08:22:48,846 INFO maxContent:10485760
+
+2023-09-27 08:23:01,637 WARN DumpService start
+
+2023-09-27 08:23:01,638 INFO start clear all config-info.
+
+2023-09-27 08:23:01,638 WARN clear all config-info failed.
+
+2023-09-27 08:23:01,638 WARN clear all config-info-tenant failed.
+
+2023-09-27 08:23:02,778 INFO notifyConnectTimeout:100
+
+2023-09-27 08:23:02,779 INFO notifySocketTimeout:200
+
+2023-09-27 08:23:02,779 INFO isHealthCheck:true
+
+2023-09-27 08:23:02,780 INFO maxHealthCheckFailCount:12
+
+2023-09-27 08:23:02,780 INFO maxContent:10485760
+
+2023-09-27 08:48:15,669 WARN DumpService start
+
+2023-09-27 08:48:15,670 INFO start clear all config-info.
+
+2023-09-27 08:48:15,671 WARN clear all config-info failed.
+
+2023-09-27 08:48:15,671 WARN clear all config-info-tenant failed.
+
+2023-09-27 08:48:17,152 INFO notifyConnectTimeout:100
+
+2023-09-27 08:48:17,153 INFO notifySocketTimeout:200
+
+2023-09-27 08:48:17,153 INFO isHealthCheck:true
+
+2023-09-27 08:48:17,153 INFO maxHealthCheckFailCount:12
+
+2023-09-27 08:48:17,153 INFO maxContent:10485760
+
+2023-09-27 08:49:19,854 WARN DumpService start
+
+2023-09-27 08:49:19,854 INFO start clear all config-info.
+
+2023-09-27 08:49:19,855 WARN clear all config-info failed.
+
+2023-09-27 08:49:19,855 WARN clear all config-info-tenant failed.
+
+2023-09-27 08:49:21,013 INFO notifyConnectTimeout:100
+
+2023-09-27 08:49:21,014 INFO notifySocketTimeout:200
+
+2023-09-27 08:49:21,014 INFO isHealthCheck:true
+
+2023-09-27 08:49:21,014 INFO maxHealthCheckFailCount:12
+
+2023-09-27 08:49:21,014 INFO maxContent:10485760
+
+2023-09-27 08:49:59,057 WARN DumpService start
+
+2023-09-27 08:49:59,058 INFO start clear all config-info.
+
+2023-09-27 08:49:59,058 WARN clear all config-info failed.
+
+2023-09-27 08:49:59,058 WARN clear all config-info-tenant failed.
+
+2023-09-27 08:50:00,236 INFO notifyConnectTimeout:100
+
+2023-09-27 08:50:00,238 INFO notifySocketTimeout:200
+
+2023-09-27 08:50:00,238 INFO isHealthCheck:true
+
+2023-09-27 08:50:00,238 INFO maxHealthCheckFailCount:12
+
+2023-09-27 08:50:00,238 INFO maxContent:10485760
+
+2023-09-27 09:06:03,303 WARN DumpService start
+
+2023-09-27 09:06:03,303 INFO start clear all config-info.
+
+2023-09-27 09:06:03,304 WARN clear all config-info failed.
+
+2023-09-27 09:06:03,304 WARN clear all config-info-tenant failed.
+
+2023-09-27 09:06:29,341 INFO notifyConnectTimeout:100
+
+2023-09-27 09:06:29,342 INFO notifySocketTimeout:200
+
+2023-09-27 09:06:29,342 INFO isHealthCheck:true
+
+2023-09-27 09:06:29,342 INFO maxHealthCheckFailCount:12
+
+2023-09-27 09:06:29,342 INFO maxContent:10485760
+
+2023-09-27 09:07:07,029 WARN DumpService start
+
+2023-09-27 09:07:07,030 INFO start clear all config-info.
+
+2023-09-27 09:07:07,031 WARN clear all config-info failed.
+
+2023-09-27 09:07:07,032 WARN clear all config-info-tenant failed.
+
+2023-09-27 09:07:08,196 INFO notifyConnectTimeout:100
+
+2023-09-27 09:07:08,198 INFO notifySocketTimeout:200
+
+2023-09-27 09:07:08,198 INFO isHealthCheck:true
+
+2023-09-27 09:07:08,198 INFO maxHealthCheckFailCount:12
+
+2023-09-27 09:07:08,198 INFO maxContent:10485760
+
+2023-09-27 09:07:20,950 WARN DumpService start
+
+2023-09-27 09:07:20,950 INFO start clear all config-info.
+
+2023-09-27 09:07:20,950 WARN clear all config-info failed.
+
+2023-09-27 09:07:20,950 WARN clear all config-info-tenant failed.
+
+2023-09-27 09:07:22,117 INFO notifyConnectTimeout:100
+
+2023-09-27 09:07:22,119 INFO notifySocketTimeout:200
+
+2023-09-27 09:07:22,119 INFO isHealthCheck:true
+
+2023-09-27 09:07:22,119 INFO maxHealthCheckFailCount:12
+
+2023-09-27 09:07:22,119 INFO maxContent:10485760
+
+2023-09-27 09:22:37,553 WARN DumpService start
+
+2023-09-27 09:22:37,553 INFO start clear all config-info.
+
+2023-09-27 09:22:37,554 WARN clear all config-info failed.
+
+2023-09-27 09:22:37,554 WARN clear all config-info-tenant failed.
+
+2023-09-27 09:23:03,593 INFO notifyConnectTimeout:100
+
+2023-09-27 09:23:03,595 INFO notifySocketTimeout:200
+
+2023-09-27 09:23:03,595 INFO isHealthCheck:true
+
+2023-09-27 09:23:03,595 INFO maxHealthCheckFailCount:12
+
+2023-09-27 09:23:03,595 INFO maxContent:10485760
+
+2023-09-27 09:23:16,406 WARN DumpService start
+
+2023-09-27 09:23:16,407 INFO start clear all config-info.
+
+2023-09-27 09:23:16,407 WARN clear all config-info failed.
+
+2023-09-27 09:23:16,407 WARN clear all config-info-tenant failed.
+
+2023-09-27 09:23:17,541 INFO notifyConnectTimeout:100
+
+2023-09-27 09:23:17,542 INFO notifySocketTimeout:200
+
+2023-09-27 09:23:17,543 INFO isHealthCheck:true
+
+2023-09-27 09:23:17,543 INFO maxHealthCheckFailCount:12
+
+2023-09-27 09:23:17,543 INFO maxContent:10485760
+
+2023-09-27 09:32:49,203 WARN DumpService start
+
+2023-09-27 09:32:49,204 INFO start clear all config-info.
+
+2023-09-27 09:32:49,204 WARN clear all config-info failed.
+
+2023-09-27 09:32:49,205 WARN clear all config-info-tenant failed.
+
+2023-09-27 09:32:50,380 INFO notifyConnectTimeout:100
+
+2023-09-27 09:32:50,381 INFO notifySocketTimeout:200
+
+2023-09-27 09:32:50,381 INFO isHealthCheck:true
+
+2023-09-27 09:32:50,381 INFO maxHealthCheckFailCount:12
+
+2023-09-27 09:32:50,381 INFO maxContent:10485760
+
+2023-09-27 09:48:28,209 WARN DumpService start
+
+2023-09-27 09:48:28,209 INFO start clear all config-info.
+
+2023-09-27 09:48:28,210 WARN clear all config-info failed.
+
+2023-09-27 09:48:28,210 WARN clear all config-info-tenant failed.
+
+2023-09-27 09:48:29,316 INFO notifyConnectTimeout:100
+
+2023-09-27 09:48:29,318 INFO notifySocketTimeout:200
+
+2023-09-27 09:48:29,318 INFO isHealthCheck:true
+
+2023-09-27 09:48:29,319 INFO maxHealthCheckFailCount:12
+
+2023-09-27 09:48:29,319 INFO maxContent:10485760
+
+2023-09-27 09:48:42,481 WARN DumpService start
+
+2023-09-27 09:48:42,482 INFO start clear all config-info.
+
+2023-09-27 09:48:42,483 WARN clear all config-info failed.
+
+2023-09-27 09:48:42,483 WARN clear all config-info-tenant failed.
+
+2023-09-27 09:49:33,253 INFO notifyConnectTimeout:100
+
+2023-09-27 09:49:33,254 INFO notifySocketTimeout:200
+
+2023-09-27 09:49:33,255 INFO isHealthCheck:true
+
+2023-09-27 09:49:33,255 INFO maxHealthCheckFailCount:12
+
+2023-09-27 09:49:33,255 INFO maxContent:10485760
+
+2023-09-27 10:05:10,975 WARN DumpService start
+
+2023-09-27 10:05:10,976 INFO start clear all config-info.
+
+2023-09-27 10:05:10,976 WARN clear all config-info failed.
+
+2023-09-27 10:05:10,976 WARN clear all config-info-tenant failed.
+
+2023-09-27 10:05:12,543 INFO notifyConnectTimeout:100
+
+2023-09-27 10:05:12,544 INFO notifySocketTimeout:200
+
+2023-09-27 10:05:12,544 INFO isHealthCheck:true
+
+2023-09-27 10:05:12,544 INFO maxHealthCheckFailCount:12
+
+2023-09-27 10:05:12,544 INFO maxContent:10485760
+
+2023-09-27 10:06:15,180 WARN DumpService start
+
+2023-09-27 10:06:15,181 INFO start clear all config-info.
+
+2023-09-27 10:06:15,181 WARN clear all config-info failed.
+
+2023-09-27 10:06:15,181 WARN clear all config-info-tenant failed.
+
+2023-09-27 10:06:16,336 INFO notifyConnectTimeout:100
+
+2023-09-27 10:06:16,337 INFO notifySocketTimeout:200
+
+2023-09-27 10:06:16,337 INFO isHealthCheck:true
+
+2023-09-27 10:06:16,337 INFO maxHealthCheckFailCount:12
+
+2023-09-27 10:06:16,337 INFO maxContent:10485760
+
+2023-09-27 10:06:54,503 WARN DumpService start
+
+2023-09-27 10:06:54,504 INFO start clear all config-info.
+
+2023-09-27 10:06:54,504 WARN clear all config-info failed.
+
+2023-09-27 10:06:54,504 WARN clear all config-info-tenant failed.
+
+2023-09-27 10:22:20,611 INFO notifyConnectTimeout:100
+
+2023-09-27 10:22:20,612 INFO notifySocketTimeout:200
+
+2023-09-27 10:22:20,612 INFO isHealthCheck:true
+
+2023-09-27 10:22:20,612 INFO maxHealthCheckFailCount:12
+
+2023-09-27 10:22:20,612 INFO maxContent:10485760
+
+2023-09-27 10:23:23,658 WARN DumpService start
+
+2023-09-27 10:23:23,659 INFO start clear all config-info.
+
+2023-09-27 10:23:23,659 WARN clear all config-info failed.
+
+2023-09-27 10:23:23,659 WARN clear all config-info-tenant failed.
+
+2023-09-27 10:23:24,781 INFO notifyConnectTimeout:100
+
+2023-09-27 10:23:24,783 INFO notifySocketTimeout:200
+
+2023-09-27 10:23:24,783 INFO isHealthCheck:true
+
+2023-09-27 10:23:24,783 INFO maxHealthCheckFailCount:12
+
+2023-09-27 10:23:24,783 INFO maxContent:10485760
+
+2023-09-27 10:24:02,525 WARN DumpService start
+
+2023-09-27 10:24:02,525 INFO start clear all config-info.
+
+2023-09-27 10:24:02,526 WARN clear all config-info failed.
+
+2023-09-27 10:24:02,526 WARN clear all config-info-tenant failed.
+
+2023-09-27 10:24:03,669 INFO notifyConnectTimeout:100
+
+2023-09-27 10:24:03,671 INFO notifySocketTimeout:200
+
+2023-09-27 10:24:03,672 INFO isHealthCheck:true
+
+2023-09-27 10:24:03,673 INFO maxHealthCheckFailCount:12
+
+2023-09-27 10:24:03,673 INFO maxContent:10485760
+
+2023-09-27 10:34:23,644 WARN DumpService start
+
+2023-09-27 10:34:23,645 INFO start clear all config-info.
+
+2023-09-27 10:34:23,645 WARN clear all config-info failed.
+
+2023-09-27 10:34:23,646 WARN clear all config-info-tenant failed.
+
+2023-09-27 10:34:24,897 INFO notifyConnectTimeout:100
+
+2023-09-27 10:34:24,898 INFO notifySocketTimeout:200
+
+2023-09-27 10:34:24,898 INFO isHealthCheck:true
+
+2023-09-27 10:34:24,898 INFO maxHealthCheckFailCount:12
+
+2023-09-27 10:34:24,898 INFO maxContent:10485760
+
+2023-09-27 11:07:51,972 WARN DumpService start
+
+2023-09-27 11:07:51,973 INFO start clear all config-info.
+
+2023-09-27 11:07:51,974 WARN clear all config-info failed.
+
+2023-09-27 11:07:51,974 WARN clear all config-info-tenant failed.
+
+2023-09-27 11:07:53,117 INFO notifyConnectTimeout:100
+
+2023-09-27 11:07:53,118 INFO notifySocketTimeout:200
+
+2023-09-27 11:07:53,118 INFO isHealthCheck:true
+
+2023-09-27 11:07:53,118 INFO maxHealthCheckFailCount:12
+
+2023-09-27 11:07:53,118 INFO maxContent:10485760
+
+2023-09-27 11:08:55,911 WARN DumpService start
+
+2023-09-27 11:08:55,911 INFO start clear all config-info.
+
+2023-09-27 11:08:55,912 WARN clear all config-info failed.
+
+2023-09-27 11:08:55,912 WARN clear all config-info-tenant failed.
+
+2023-09-27 11:08:57,057 INFO notifyConnectTimeout:100
+
+2023-09-27 11:08:57,059 INFO notifySocketTimeout:200
+
+2023-09-27 11:08:57,059 INFO isHealthCheck:true
+
+2023-09-27 11:08:57,059 INFO maxHealthCheckFailCount:12
+
+2023-09-27 11:08:57,059 INFO maxContent:10485760
+
+2023-09-27 11:25:12,877 WARN DumpService start
+
+2023-09-27 11:25:12,877 INFO start clear all config-info.
+
+2023-09-27 11:25:12,878 WARN clear all config-info failed.
+
+2023-09-27 11:25:12,878 WARN clear all config-info-tenant failed.
+
+2023-09-27 11:25:14,036 INFO notifyConnectTimeout:100
+
+2023-09-27 11:25:14,038 INFO notifySocketTimeout:200
+
+2023-09-27 11:25:14,038 INFO isHealthCheck:true
+
+2023-09-27 11:25:14,038 INFO maxHealthCheckFailCount:12
+
+2023-09-27 11:25:14,038 INFO maxContent:10485760
+
+2023-09-27 11:25:51,877 WARN DumpService start
+
+2023-09-27 11:25:51,877 INFO start clear all config-info.
+
+2023-09-27 11:25:51,878 WARN clear all config-info failed.
+
+2023-09-27 11:25:51,878 WARN clear all config-info-tenant failed.
+
+2023-09-27 11:25:53,014 INFO notifyConnectTimeout:100
+
+2023-09-27 11:25:53,015 INFO notifySocketTimeout:200
+
+2023-09-27 11:25:53,015 INFO isHealthCheck:true
+
+2023-09-27 11:25:53,015 INFO maxHealthCheckFailCount:12
+
+2023-09-27 11:25:53,016 INFO maxContent:10485760
+
+2023-09-27 11:34:47,672 WARN DumpService start
+
+2023-09-27 11:34:47,672 INFO start clear all config-info.
+
+2023-09-27 11:34:47,673 WARN clear all config-info failed.
+
+2023-09-27 11:34:47,673 WARN clear all config-info-tenant failed.
+
+2023-09-27 11:34:48,821 INFO notifyConnectTimeout:100
+
+2023-09-27 11:34:48,822 INFO notifySocketTimeout:200
+
+2023-09-27 11:34:48,822 INFO isHealthCheck:true
+
+2023-09-27 11:34:48,823 INFO maxHealthCheckFailCount:12
+
+2023-09-27 11:34:48,823 INFO maxContent:10485760
+
+2023-09-27 11:35:26,497 WARN DumpService start
+
+2023-09-27 11:35:26,499 INFO start clear all config-info.
+
+2023-09-27 11:35:26,499 WARN clear all config-info failed.
+
+2023-09-27 11:35:26,499 WARN clear all config-info-tenant failed.
+
+2023-09-27 11:35:27,667 INFO notifyConnectTimeout:100
+
+2023-09-27 11:35:27,669 INFO notifySocketTimeout:200
+
+2023-09-27 11:35:27,669 INFO isHealthCheck:true
+
+2023-09-27 11:35:27,669 INFO maxHealthCheckFailCount:12
+
+2023-09-27 11:35:27,669 INFO maxContent:10485760
+
+2023-09-27 11:51:23,425 WARN DumpService start
+
+2023-09-27 11:51:23,425 INFO start clear all config-info.
+
+2023-09-27 11:51:23,426 WARN clear all config-info failed.
+
+2023-09-27 11:51:23,426 WARN clear all config-info-tenant failed.
+
+2023-09-27 11:51:49,512 INFO notifyConnectTimeout:100
+
+2023-09-27 11:51:49,514 INFO notifySocketTimeout:200
+
+2023-09-27 11:51:49,514 INFO isHealthCheck:true
+
+2023-09-27 11:51:49,514 INFO maxHealthCheckFailCount:12
+
+2023-09-27 11:51:49,514 INFO maxContent:10485760
+
+2023-09-27 11:52:27,199 WARN DumpService start
+
+2023-09-27 11:52:27,199 INFO start clear all config-info.
+
+2023-09-27 11:52:27,199 WARN clear all config-info failed.
+
+2023-09-27 11:52:27,199 WARN clear all config-info-tenant failed.
+
+2023-09-27 11:52:28,312 INFO notifyConnectTimeout:100
+
+2023-09-27 11:52:28,313 INFO notifySocketTimeout:200
+
+2023-09-27 11:52:28,313 INFO isHealthCheck:true
+
+2023-09-27 11:52:28,313 INFO maxHealthCheckFailCount:12
+
+2023-09-27 11:52:28,313 INFO maxContent:10485760
+
+2023-09-27 11:53:05,969 WARN DumpService start
+
+2023-09-27 11:53:05,969 INFO start clear all config-info.
+
+2023-09-27 11:53:05,970 WARN clear all config-info failed.
+
+2023-09-27 11:53:05,970 WARN clear all config-info-tenant failed.
+
+2023-09-27 11:53:07,160 INFO notifyConnectTimeout:100
+
+2023-09-27 11:53:07,161 INFO notifySocketTimeout:200
+
+2023-09-27 11:53:07,161 INFO isHealthCheck:true
+
+2023-09-27 11:53:07,161 INFO maxHealthCheckFailCount:12
+
+2023-09-27 11:53:07,161 INFO maxContent:10485760
+
+2023-09-27 11:53:19,966 WARN DumpService start
+
+2023-09-27 11:53:19,967 INFO start clear all config-info.
+
+2023-09-27 11:53:19,967 WARN clear all config-info failed.
+
+2023-09-27 11:53:19,967 WARN clear all config-info-tenant failed.
+
+2023-09-27 11:53:21,108 INFO notifyConnectTimeout:100
+
+2023-09-27 11:53:21,110 INFO notifySocketTimeout:200
+
+2023-09-27 11:53:21,110 INFO isHealthCheck:true
+
+2023-09-27 11:53:21,110 INFO maxHealthCheckFailCount:12
+
+2023-09-27 11:53:21,110 INFO maxContent:10485760
+
+2023-09-27 12:24:23,881 WARN DumpService start
+
+2023-09-27 12:24:23,882 INFO start clear all config-info.
+
+2023-09-27 12:24:23,882 WARN clear all config-info failed.
+
+2023-09-27 12:24:23,882 WARN clear all config-info-tenant failed.
+
+2023-09-27 12:24:25,107 INFO notifyConnectTimeout:100
+
+2023-09-27 12:24:25,116 INFO notifySocketTimeout:200
+
+2023-09-27 12:24:25,116 INFO isHealthCheck:true
+
+2023-09-27 12:24:25,116 INFO maxHealthCheckFailCount:12
+
+2023-09-27 12:24:25,116 INFO maxContent:10485760
+
+2023-09-27 12:25:03,120 WARN DumpService start
+
+2023-09-27 12:25:03,121 INFO start clear all config-info.
+
+2023-09-27 12:25:03,121 WARN clear all config-info failed.
+
+2023-09-27 12:25:03,121 WARN clear all config-info-tenant failed.
+
+2023-09-27 12:25:29,152 INFO notifyConnectTimeout:100
+
+2023-09-27 12:25:29,154 INFO notifySocketTimeout:200
+
+2023-09-27 12:25:29,154 INFO isHealthCheck:true
+
+2023-09-27 12:25:29,154 INFO maxHealthCheckFailCount:12
+
+2023-09-27 12:25:29,154 INFO maxContent:10485760
+
+2023-09-27 12:26:06,849 WARN DumpService start
+
+2023-09-27 12:26:06,850 INFO start clear all config-info.
+
+2023-09-27 12:26:06,850 WARN clear all config-info failed.
+
+2023-09-27 12:26:06,851 WARN clear all config-info-tenant failed.
+
+2023-09-27 12:35:47,551 INFO notifyConnectTimeout:100
+
+2023-09-27 12:35:47,552 INFO notifySocketTimeout:200
+
+2023-09-27 12:35:47,552 INFO isHealthCheck:true
+
+2023-09-27 12:35:47,552 INFO maxHealthCheckFailCount:12
+
+2023-09-27 12:35:47,552 INFO maxContent:10485760
+
+2023-09-27 12:36:25,415 WARN DumpService start
+
+2023-09-27 12:36:25,415 INFO start clear all config-info.
+
+2023-09-27 12:36:25,415 WARN clear all config-info failed.
+
+2023-09-27 12:36:25,415 WARN clear all config-info-tenant failed.
+
+2023-09-27 12:36:26,998 INFO notifyConnectTimeout:100
+
+2023-09-27 12:36:26,999 INFO notifySocketTimeout:200
+
+2023-09-27 12:36:26,999 INFO isHealthCheck:true
+
+2023-09-27 12:36:26,999 INFO maxHealthCheckFailCount:12
+
+2023-09-27 12:36:26,999 INFO maxContent:10485760
+
+2023-09-27 12:54:15,016 WARN DumpService start
+
+2023-09-27 12:54:15,016 INFO start clear all config-info.
+
+2023-09-27 12:54:15,017 WARN clear all config-info failed.
+
+2023-09-27 12:54:15,017 WARN clear all config-info-tenant failed.
+
+2023-09-27 12:54:16,151 INFO notifyConnectTimeout:100
+
+2023-09-27 12:54:16,153 INFO notifySocketTimeout:200
+
+2023-09-27 12:54:16,153 INFO isHealthCheck:true
+
+2023-09-27 12:54:16,153 INFO maxHealthCheckFailCount:12
+
+2023-09-27 12:54:16,153 INFO maxContent:10485760
+
+2023-09-27 13:09:53,853 WARN DumpService start
+
+2023-09-27 13:09:53,853 INFO start clear all config-info.
+
+2023-09-27 13:09:53,854 WARN clear all config-info failed.
+
+2023-09-27 13:09:53,854 WARN clear all config-info-tenant failed.
+
+2023-09-27 13:09:55,381 INFO notifyConnectTimeout:100
+
+2023-09-27 13:09:55,382 INFO notifySocketTimeout:200
+
+2023-09-27 13:09:55,382 INFO isHealthCheck:true
+
+2023-09-27 13:09:55,383 INFO maxHealthCheckFailCount:12
+
+2023-09-27 13:09:55,383 INFO maxContent:10485760
+
+2023-09-27 13:10:58,015 WARN DumpService start
+
+2023-09-27 13:10:58,015 INFO start clear all config-info.
+
+2023-09-27 13:10:58,015 WARN clear all config-info failed.
+
+2023-09-27 13:10:58,016 WARN clear all config-info-tenant failed.
+
+2023-09-27 13:10:59,645 INFO notifyConnectTimeout:100
+
+2023-09-27 13:10:59,646 INFO notifySocketTimeout:200
+
+2023-09-27 13:10:59,646 INFO isHealthCheck:true
+
+2023-09-27 13:10:59,646 INFO maxHealthCheckFailCount:12
+
+2023-09-27 13:10:59,646 INFO maxContent:10485760
+
+2023-09-27 13:11:37,296 WARN DumpService start
+
+2023-09-27 13:11:37,296 INFO start clear all config-info.
+
+2023-09-27 13:11:37,297 WARN clear all config-info failed.
+
+2023-09-27 13:11:37,297 WARN clear all config-info-tenant failed.
+
+2023-09-27 13:11:38,415 INFO notifyConnectTimeout:100
+
+2023-09-27 13:11:38,417 INFO notifySocketTimeout:200
+
+2023-09-27 13:11:38,417 INFO isHealthCheck:true
+
+2023-09-27 13:11:38,417 INFO maxHealthCheckFailCount:12
+
+2023-09-27 13:11:38,417 INFO maxContent:10485760
+
+2023-09-27 13:11:51,271 WARN DumpService start
+
+2023-09-27 13:11:51,272 INFO start clear all config-info.
+
+2023-09-27 13:11:51,272 WARN clear all config-info failed.
+
+2023-09-27 13:11:51,272 WARN clear all config-info-tenant failed.
+
+2023-09-27 13:11:52,423 INFO notifyConnectTimeout:100
+
+2023-09-27 13:11:52,425 INFO notifySocketTimeout:200
+
+2023-09-27 13:11:52,425 INFO isHealthCheck:true
+
+2023-09-27 13:11:52,425 INFO maxHealthCheckFailCount:12
+
+2023-09-27 13:11:52,425 INFO maxContent:10485760
+
+2023-09-27 13:27:38,581 WARN DumpService start
+
+2023-09-27 13:27:38,582 INFO start clear all config-info.
+
+2023-09-27 13:27:38,582 WARN clear all config-info failed.
+
+2023-09-27 13:27:38,582 WARN clear all config-info-tenant failed.
+
+2023-09-27 13:27:39,744 INFO notifyConnectTimeout:100
+
+2023-09-27 13:27:39,745 INFO notifySocketTimeout:200
+
+2023-09-27 13:27:39,745 INFO isHealthCheck:true
+
+2023-09-27 13:27:39,745 INFO maxHealthCheckFailCount:12
+
+2023-09-27 13:27:39,745 INFO maxContent:10485760
+
+2023-09-27 13:27:52,692 WARN DumpService start
+
+2023-09-27 13:27:52,693 INFO start clear all config-info.
+
+2023-09-27 13:27:52,693 WARN clear all config-info failed.
+
+2023-09-27 13:27:52,693 WARN clear all config-info-tenant failed.
+
+2023-09-27 13:27:54,276 INFO notifyConnectTimeout:100
+
+2023-09-27 13:27:54,277 INFO notifySocketTimeout:200
+
+2023-09-27 13:27:54,277 INFO isHealthCheck:true
+
+2023-09-27 13:27:54,277 INFO maxHealthCheckFailCount:12
+
+2023-09-27 13:27:54,277 INFO maxContent:10485760
+
+2023-09-27 13:36:52,525 WARN DumpService start
+
+2023-09-27 13:36:52,526 INFO start clear all config-info.
+
+2023-09-27 13:36:52,526 WARN clear all config-info failed.
+
+2023-09-27 13:36:52,526 WARN clear all config-info-tenant failed.
+
+2023-09-27 13:36:53,685 INFO notifyConnectTimeout:100
+
+2023-09-27 13:36:53,687 INFO notifySocketTimeout:200
+
+2023-09-27 13:36:53,687 INFO isHealthCheck:true
+
+2023-09-27 13:36:53,688 INFO maxHealthCheckFailCount:12
+
+2023-09-27 13:36:53,688 INFO maxContent:10485760
+
+2023-09-27 13:37:56,725 WARN DumpService start
+
+2023-09-27 13:37:56,726 INFO start clear all config-info.
+
+2023-09-27 13:37:56,726 WARN clear all config-info failed.
+
+2023-09-27 13:37:56,726 WARN clear all config-info-tenant failed.
+
+2023-09-27 13:37:57,912 INFO notifyConnectTimeout:100
+
+2023-09-27 13:37:57,913 INFO notifySocketTimeout:200
+
+2023-09-27 13:37:57,914 INFO isHealthCheck:true
+
+2023-09-27 13:37:57,914 INFO maxHealthCheckFailCount:12
+
+2023-09-27 13:37:57,914 INFO maxContent:10485760
+
+2023-09-27 13:54:01,313 WARN DumpService start
+
+2023-09-27 13:54:01,313 INFO start clear all config-info.
+
+2023-09-27 13:54:01,314 WARN clear all config-info failed.
+
+2023-09-27 13:54:01,314 WARN clear all config-info-tenant failed.
+
+2023-09-27 13:54:02,466 INFO notifyConnectTimeout:100
+
+2023-09-27 13:54:02,468 INFO notifySocketTimeout:200
+
+2023-09-27 13:54:02,468 INFO isHealthCheck:true
+
+2023-09-27 13:54:02,468 INFO maxHealthCheckFailCount:12
+
+2023-09-27 13:54:02,468 INFO maxContent:10485760
+
+2023-09-27 13:55:05,450 WARN DumpService start
+
+2023-09-27 13:55:05,450 INFO start clear all config-info.
+
+2023-09-27 13:55:05,451 WARN clear all config-info failed.
+
+2023-09-27 13:55:05,451 WARN clear all config-info-tenant failed.
+
+2023-09-27 13:55:06,720 INFO notifyConnectTimeout:100
+
+2023-09-27 13:55:06,722 INFO notifySocketTimeout:200
+
+2023-09-27 13:55:06,722 INFO isHealthCheck:true
+
+2023-09-27 13:55:06,722 INFO maxHealthCheckFailCount:12
+
+2023-09-27 13:55:06,722 INFO maxContent:10485760
+
+2023-09-27 14:10:44,663 WARN DumpService start
+
+2023-09-27 14:10:44,664 INFO start clear all config-info.
+
+2023-09-27 14:10:44,664 WARN clear all config-info failed.
+
+2023-09-27 14:10:44,664 WARN clear all config-info-tenant failed.
+
+2023-09-27 14:10:45,825 INFO notifyConnectTimeout:100
+
+2023-09-27 14:10:45,827 INFO notifySocketTimeout:200
+
+2023-09-27 14:10:45,827 INFO isHealthCheck:true
+
+2023-09-27 14:10:45,827 INFO maxHealthCheckFailCount:12
+
+2023-09-27 14:10:45,827 INFO maxContent:10485760
+
+2023-09-27 14:11:24,047 WARN DumpService start
+
+2023-09-27 14:11:24,047 INFO start clear all config-info.
+
+2023-09-27 14:11:24,047 WARN clear all config-info failed.
+
+2023-09-27 14:11:24,048 WARN clear all config-info-tenant failed.
+
+2023-09-27 14:11:25,246 INFO notifyConnectTimeout:100
+
+2023-09-27 14:11:25,248 INFO notifySocketTimeout:200
+
+2023-09-27 14:11:25,248 INFO isHealthCheck:true
+
+2023-09-27 14:11:25,248 INFO maxHealthCheckFailCount:12
+
+2023-09-27 14:11:25,248 INFO maxContent:10485760
+
+2023-09-27 14:12:28,297 WARN DumpService start
+
+2023-09-27 14:12:28,298 INFO start clear all config-info.
+
+2023-09-27 14:12:28,298 WARN clear all config-info failed.
+
+2023-09-27 14:12:28,298 WARN clear all config-info-tenant failed.
+
+2023-09-27 14:12:29,547 INFO notifyConnectTimeout:100
+
+2023-09-27 14:12:29,548 INFO notifySocketTimeout:200
+
+2023-09-27 14:12:29,549 INFO isHealthCheck:true
+
+2023-09-27 14:12:29,550 INFO maxHealthCheckFailCount:12
+
+2023-09-27 14:12:29,550 INFO maxContent:10485760
+
+2023-09-27 14:12:42,274 WARN DumpService start
+
+2023-09-27 14:12:42,275 INFO start clear all config-info.
+
+2023-09-27 14:12:42,275 WARN clear all config-info failed.
+
+2023-09-27 14:12:42,275 WARN clear all config-info-tenant failed.
+
+2023-09-27 14:28:08,811 INFO notifyConnectTimeout:100
+
+2023-09-27 14:28:08,814 INFO notifySocketTimeout:200
+
+2023-09-27 14:28:08,814 INFO isHealthCheck:true
+
+2023-09-27 14:28:08,814 INFO maxHealthCheckFailCount:12
+
+2023-09-27 14:28:08,815 INFO maxContent:10485760
+
+2023-09-27 14:37:53,173 WARN DumpService start
+
+2023-09-27 14:37:53,173 INFO start clear all config-info.
+
+2023-09-27 14:37:53,174 WARN clear all config-info failed.
+
+2023-09-27 14:37:53,174 WARN clear all config-info-tenant failed.
+
+2023-09-27 14:37:54,789 INFO notifyConnectTimeout:100
+
+2023-09-27 14:37:54,791 INFO notifySocketTimeout:200
+
+2023-09-27 14:37:54,791 INFO isHealthCheck:true
+
+2023-09-27 14:37:54,791 INFO maxHealthCheckFailCount:12
+
+2023-09-27 14:37:54,791 INFO maxContent:10485760
+
+2023-09-27 14:38:07,557 WARN DumpService start
+
+2023-09-27 14:38:07,558 INFO start clear all config-info.
+
+2023-09-27 14:38:07,558 WARN clear all config-info failed.
+
+2023-09-27 14:38:07,558 WARN clear all config-info-tenant failed.
+
+2023-09-27 14:38:08,778 INFO notifyConnectTimeout:100
+
+2023-09-27 14:38:08,779 INFO notifySocketTimeout:200
+
+2023-09-27 14:38:08,779 INFO isHealthCheck:true
+
+2023-09-27 14:38:08,780 INFO maxHealthCheckFailCount:12
+
+2023-09-27 14:38:08,781 INFO maxContent:10485760
+
+2023-09-27 14:53:44,553 WARN DumpService start
+
+2023-09-27 14:53:44,554 INFO start clear all config-info.
+
+2023-09-27 14:53:44,555 WARN clear all config-info failed.
+
+2023-09-27 14:53:44,555 WARN clear all config-info-tenant failed.
+
+2023-09-27 14:53:45,716 INFO notifyConnectTimeout:100
+
+2023-09-27 14:53:45,717 INFO notifySocketTimeout:200
+
+2023-09-27 14:53:45,717 INFO isHealthCheck:true
+
+2023-09-27 14:53:45,717 INFO maxHealthCheckFailCount:12
+
+2023-09-27 14:53:45,717 INFO maxContent:10485760
+
+2023-09-27 14:54:48,714 WARN DumpService start
+
+2023-09-27 14:54:48,715 INFO start clear all config-info.
+
+2023-09-27 14:54:48,715 WARN clear all config-info failed.
+
+2023-09-27 14:54:48,715 WARN clear all config-info-tenant failed.
+
+2023-09-27 14:54:49,848 INFO notifyConnectTimeout:100
+
+2023-09-27 14:54:49,850 INFO notifySocketTimeout:200
+
+2023-09-27 14:54:49,850 INFO isHealthCheck:true
+
+2023-09-27 14:54:49,850 INFO maxHealthCheckFailCount:12
+
+2023-09-27 14:54:49,850 INFO maxContent:10485760
+
+2023-09-27 14:55:52,763 WARN DumpService start
+
+2023-09-27 14:55:52,764 INFO start clear all config-info.
+
+2023-09-27 14:55:52,765 WARN clear all config-info failed.
+
+2023-09-27 14:55:52,765 WARN clear all config-info-tenant failed.
+
+2023-09-27 14:55:53,881 INFO notifyConnectTimeout:100
+
+2023-09-27 14:55:53,882 INFO notifySocketTimeout:200
+
+2023-09-27 14:55:53,882 INFO isHealthCheck:true
+
+2023-09-27 14:55:53,882 INFO maxHealthCheckFailCount:12
+
+2023-09-27 14:55:53,882 INFO maxContent:10485760
+
+2023-09-27 14:56:06,834 WARN DumpService start
+
+2023-09-27 14:56:06,834 INFO start clear all config-info.
+
+2023-09-27 14:56:06,835 WARN clear all config-info failed.
+
+2023-09-27 14:56:06,835 WARN clear all config-info-tenant failed.
+
+2023-09-27 14:56:08,128 INFO notifyConnectTimeout:100
+
+2023-09-27 14:56:08,130 INFO notifySocketTimeout:200
+
+2023-09-27 14:56:08,130 INFO isHealthCheck:true
+
+2023-09-27 14:56:08,130 INFO maxHealthCheckFailCount:12
+
+2023-09-27 14:56:08,130 INFO maxContent:10485760
+
+2023-09-27 15:11:46,768 WARN DumpService start
+
+2023-09-27 15:11:46,769 INFO start clear all config-info.
+
+2023-09-27 15:11:46,769 WARN clear all config-info failed.
+
+2023-09-27 15:11:46,769 WARN clear all config-info-tenant failed.
+
+2023-09-27 15:27:13,238 INFO notifyConnectTimeout:100
+
+2023-09-27 15:27:13,240 INFO notifySocketTimeout:200
+
+2023-09-27 15:27:13,240 INFO isHealthCheck:true
+
+2023-09-27 15:27:13,240 INFO maxHealthCheckFailCount:12
+
+2023-09-27 15:27:13,240 INFO maxContent:10485760
+
+2023-09-27 15:27:51,102 WARN DumpService start
+
+2023-09-27 15:27:51,103 INFO start clear all config-info.
+
+2023-09-27 15:27:51,104 WARN clear all config-info failed.
+
+2023-09-27 15:27:51,104 WARN clear all config-info-tenant failed.
+
+2023-09-27 15:27:52,615 INFO notifyConnectTimeout:100
+
+2023-09-27 15:27:52,617 INFO notifySocketTimeout:200
+
+2023-09-27 15:27:52,617 INFO isHealthCheck:true
+
+2023-09-27 15:27:52,617 INFO maxHealthCheckFailCount:12
+
+2023-09-27 15:27:52,617 INFO maxContent:10485760
+
+2023-09-27 15:28:55,223 WARN DumpService start
+
+2023-09-27 15:28:55,223 INFO start clear all config-info.
+
+2023-09-27 15:28:55,224 WARN clear all config-info failed.
+
+2023-09-27 15:28:55,224 WARN clear all config-info-tenant failed.
+
+2023-09-27 15:28:56,363 INFO notifyConnectTimeout:100
+
+2023-09-27 15:28:56,364 INFO notifySocketTimeout:200
+
+2023-09-27 15:28:56,364 INFO isHealthCheck:true
+
+2023-09-27 15:28:56,364 INFO maxHealthCheckFailCount:12
+
+2023-09-27 15:28:56,364 INFO maxContent:10485760
+
+2023-09-27 15:29:09,169 WARN DumpService start
+
+2023-09-27 15:29:09,170 INFO start clear all config-info.
+
+2023-09-27 15:29:09,171 WARN clear all config-info failed.
+
+2023-09-27 15:29:09,171 WARN clear all config-info-tenant failed.
+
+2023-09-27 15:29:10,332 INFO notifyConnectTimeout:100
+
+2023-09-27 15:29:10,340 INFO notifySocketTimeout:200
+
+2023-09-27 15:29:10,340 INFO isHealthCheck:true
+
+2023-09-27 15:29:10,340 INFO maxHealthCheckFailCount:12
+
+2023-09-27 15:29:10,340 INFO maxContent:10485760
+
+2023-09-27 15:38:50,912 WARN DumpService start
+
+2023-09-27 15:38:50,913 INFO start clear all config-info.
+
+2023-09-27 15:38:50,913 WARN clear all config-info failed.
+
+2023-09-27 15:38:50,914 WARN clear all config-info-tenant failed.
+
+2023-09-27 15:38:52,113 INFO notifyConnectTimeout:100
+
+2023-09-27 15:38:52,114 INFO notifySocketTimeout:200
+
+2023-09-27 15:38:52,115 INFO isHealthCheck:true
+
+2023-09-27 15:38:52,115 INFO maxHealthCheckFailCount:12
+
+2023-09-27 15:38:52,115 INFO maxContent:10485760
+
+2023-09-27 15:54:32,532 WARN DumpService start
+
+2023-09-27 15:54:32,533 INFO start clear all config-info.
+
+2023-09-27 15:54:32,534 WARN clear all config-info failed.
+
+2023-09-27 15:54:32,534 WARN clear all config-info-tenant failed.
+
+2023-09-27 15:54:33,702 INFO notifyConnectTimeout:100
+
+2023-09-27 15:54:33,703 INFO notifySocketTimeout:200
+
+2023-09-27 15:54:33,703 INFO isHealthCheck:true
+
+2023-09-27 15:54:33,703 INFO maxHealthCheckFailCount:12
+
+2023-09-27 15:54:33,703 INFO maxContent:10485760
+
+2023-09-27 15:55:11,870 WARN DumpService start
+
+2023-09-27 15:55:11,871 INFO start clear all config-info.
+
+2023-09-27 15:55:11,871 WARN clear all config-info failed.
+
+2023-09-27 15:55:11,872 WARN clear all config-info-tenant failed.
+
+2023-09-27 15:55:13,096 INFO notifyConnectTimeout:100
+
+2023-09-27 15:55:13,097 INFO notifySocketTimeout:200
+
+2023-09-27 15:55:13,097 INFO isHealthCheck:true
+
+2023-09-27 15:55:13,097 INFO maxHealthCheckFailCount:12
+
+2023-09-27 15:55:13,098 INFO maxContent:10485760
+
+2023-09-27 15:56:16,094 WARN DumpService start
+
+2023-09-27 15:56:16,094 INFO start clear all config-info.
+
+2023-09-27 15:56:16,095 WARN clear all config-info failed.
+
+2023-09-27 15:56:16,095 WARN clear all config-info-tenant failed.
+
+2023-09-27 15:56:17,240 INFO notifyConnectTimeout:100
+
+2023-09-27 15:56:17,242 INFO notifySocketTimeout:200
+
+2023-09-27 15:56:17,242 INFO isHealthCheck:true
+
+2023-09-27 15:56:17,242 INFO maxHealthCheckFailCount:12
+
+2023-09-27 15:56:17,242 INFO maxContent:10485760
+
+2023-09-27 16:11:55,345 WARN DumpService start
+
+2023-09-27 16:11:55,345 INFO start clear all config-info.
+
+2023-09-27 16:11:55,346 WARN clear all config-info failed.
+
+2023-09-27 16:11:55,346 WARN clear all config-info-tenant failed.
+
+2023-09-27 16:11:56,591 INFO notifyConnectTimeout:100
+
+2023-09-27 16:11:56,592 INFO notifySocketTimeout:200
+
+2023-09-27 16:11:56,592 INFO isHealthCheck:true
+
+2023-09-27 16:11:56,592 INFO maxHealthCheckFailCount:12
+
+2023-09-27 16:11:56,592 INFO maxContent:10485760
+
+2023-09-27 16:27:35,354 WARN DumpService start
+
+2023-09-27 16:27:35,354 INFO start clear all config-info.
+
+2023-09-27 16:27:35,355 WARN clear all config-info failed.
+
+2023-09-27 16:27:35,355 WARN clear all config-info-tenant failed.
+
+2023-09-27 16:27:36,502 INFO notifyConnectTimeout:100
+
+2023-09-27 16:27:36,503 INFO notifySocketTimeout:200
+
+2023-09-27 16:27:36,503 INFO isHealthCheck:true
+
+2023-09-27 16:27:36,503 INFO maxHealthCheckFailCount:12
+
+2023-09-27 16:27:36,503 INFO maxContent:10485760
+
+2023-09-27 16:28:14,200 WARN DumpService start
+
+2023-09-27 16:28:14,201 INFO start clear all config-info.
+
+2023-09-27 16:28:14,201 WARN clear all config-info failed.
+
+2023-09-27 16:28:14,201 WARN clear all config-info-tenant failed.
+
+2023-09-27 16:28:40,266 INFO notifyConnectTimeout:100
+
+2023-09-27 16:28:40,268 INFO notifySocketTimeout:200
+
+2023-09-27 16:28:40,268 INFO isHealthCheck:true
+
+2023-09-27 16:28:40,268 INFO maxHealthCheckFailCount:12
+
+2023-09-27 16:28:40,268 INFO maxContent:10485760
+
+2023-09-27 16:29:17,818 WARN DumpService start
+
+2023-09-27 16:29:17,818 INFO start clear all config-info.
+
+2023-09-27 16:29:17,819 WARN clear all config-info failed.
+
+2023-09-27 16:29:17,819 WARN clear all config-info-tenant failed.
+
+2023-09-27 16:29:18,953 INFO notifyConnectTimeout:100
+
+2023-09-27 16:29:18,955 INFO notifySocketTimeout:200
+
+2023-09-27 16:29:18,955 INFO isHealthCheck:true
+
+2023-09-27 16:29:18,955 INFO maxHealthCheckFailCount:12
+
+2023-09-27 16:29:18,955 INFO maxContent:10485760
+
+2023-09-27 16:29:31,678 WARN DumpService start
+
+2023-09-27 16:29:31,679 INFO start clear all config-info.
+
+2023-09-27 16:29:31,679 WARN clear all config-info failed.
+
+2023-09-27 16:29:31,679 WARN clear all config-info-tenant failed.
+
+2023-09-27 16:29:32,784 INFO notifyConnectTimeout:100
+
+2023-09-27 16:29:32,786 INFO notifySocketTimeout:200
+
+2023-09-27 16:29:32,786 INFO isHealthCheck:true
+
+2023-09-27 16:29:32,786 INFO maxHealthCheckFailCount:12
+
+2023-09-27 16:29:32,786 INFO maxContent:10485760
+
+2023-09-27 16:54:54,917 WARN DumpService start
+
+2023-09-27 16:54:54,917 INFO start clear all config-info.
+
+2023-09-27 16:54:54,918 WARN clear all config-info failed.
+
+2023-09-27 16:54:54,918 WARN clear all config-info-tenant failed.
+
+2023-09-27 16:54:56,038 INFO notifyConnectTimeout:100
+
+2023-09-27 16:54:56,039 INFO notifySocketTimeout:200
+
+2023-09-27 16:54:56,039 INFO isHealthCheck:true
+
+2023-09-27 16:54:56,039 INFO maxHealthCheckFailCount:12
+
+2023-09-27 16:54:56,040 INFO maxContent:10485760
+
+2023-09-27 16:55:58,659 WARN DumpService start
+
+2023-09-27 16:55:58,659 INFO start clear all config-info.
+
+2023-09-27 16:55:58,659 WARN clear all config-info failed.
+
+2023-09-27 16:55:58,659 WARN clear all config-info-tenant failed.
+
+2023-09-27 16:55:59,779 INFO notifyConnectTimeout:100
+
+2023-09-27 16:55:59,780 INFO notifySocketTimeout:200
+
+2023-09-27 16:55:59,781 INFO isHealthCheck:true
+
+2023-09-27 16:55:59,781 INFO maxHealthCheckFailCount:12
+
+2023-09-27 16:55:59,781 INFO maxContent:10485760
+
+2023-09-27 16:56:37,267 WARN DumpService start
+
+2023-09-27 16:56:37,268 INFO start clear all config-info.
+
+2023-09-27 16:56:37,268 WARN clear all config-info failed.
+
+2023-09-27 16:56:37,268 WARN clear all config-info-tenant failed.
+
+2023-09-27 16:56:38,406 INFO notifyConnectTimeout:100
+
+2023-09-27 16:56:38,408 INFO notifySocketTimeout:200
+
+2023-09-27 16:56:38,408 INFO isHealthCheck:true
+
+2023-09-27 16:56:38,408 INFO maxHealthCheckFailCount:12
+
+2023-09-27 16:56:38,408 INFO maxContent:10485760
+
+2023-09-27 17:12:18,843 WARN DumpService start
+
+2023-09-27 17:12:18,844 INFO start clear all config-info.
+
+2023-09-27 17:12:18,844 WARN clear all config-info failed.
+
+2023-09-27 17:12:18,844 WARN clear all config-info-tenant failed.
+
+2023-09-27 17:12:19,984 INFO notifyConnectTimeout:100
+
+2023-09-27 17:12:19,985 INFO notifySocketTimeout:200
+
+2023-09-27 17:12:19,985 INFO isHealthCheck:true
+
+2023-09-27 17:12:19,985 INFO maxHealthCheckFailCount:12
+
+2023-09-27 17:12:19,985 INFO maxContent:10485760
+
+2023-09-27 17:12:57,598 WARN DumpService start
+
+2023-09-27 17:12:57,599 INFO start clear all config-info.
+
+2023-09-27 17:12:57,599 WARN clear all config-info failed.
+
+2023-09-27 17:12:57,599 WARN clear all config-info-tenant failed.
+
+2023-09-27 17:12:58,766 INFO notifyConnectTimeout:100
+
+2023-09-27 17:12:58,770 INFO notifySocketTimeout:200
+
+2023-09-27 17:12:58,770 INFO isHealthCheck:true
+
+2023-09-27 17:12:58,770 INFO maxHealthCheckFailCount:12
+
+2023-09-27 17:12:58,770 INFO maxContent:10485760
+
+2023-09-27 17:28:36,377 WARN DumpService start
+
+2023-09-27 17:28:36,377 INFO start clear all config-info.
+
+2023-09-27 17:28:36,378 WARN clear all config-info failed.
+
+2023-09-27 17:28:36,378 WARN clear all config-info-tenant failed.
+
+2023-09-27 17:29:02,392 INFO notifyConnectTimeout:100
+
+2023-09-27 17:29:02,394 INFO notifySocketTimeout:200
+
+2023-09-27 17:29:02,394 INFO isHealthCheck:true
+
+2023-09-27 17:29:02,395 INFO maxHealthCheckFailCount:12
+
+2023-09-27 17:29:02,395 INFO maxContent:10485760
+
+2023-09-27 17:29:40,285 WARN DumpService start
+
+2023-09-27 17:29:40,286 INFO start clear all config-info.
+
+2023-09-27 17:29:40,286 WARN clear all config-info failed.
+
+2023-09-27 17:29:40,286 WARN clear all config-info-tenant failed.
+
+2023-09-27 17:30:06,312 INFO notifyConnectTimeout:100
+
+2023-09-27 17:30:06,314 INFO notifySocketTimeout:200
+
+2023-09-27 17:30:06,314 INFO isHealthCheck:true
+
+2023-09-27 17:30:06,314 INFO maxHealthCheckFailCount:12
+
+2023-09-27 17:30:06,314 INFO maxContent:10485760
+
+2023-09-27 17:30:19,021 WARN DumpService start
+
+2023-09-27 17:30:19,022 INFO start clear all config-info.
+
+2023-09-27 17:30:19,022 WARN clear all config-info failed.
+
+2023-09-27 17:30:19,022 WARN clear all config-info-tenant failed.
+
+2023-09-27 17:41:19,796 INFO notifyConnectTimeout:100
+
+2023-09-27 17:41:19,797 INFO notifySocketTimeout:200
+
+2023-09-27 17:41:19,798 INFO isHealthCheck:true
+
+2023-09-27 17:41:19,798 INFO maxHealthCheckFailCount:12
+
+2023-09-27 17:41:19,798 INFO maxContent:10485760
+
+2023-09-27 17:57:05,026 WARN DumpService start
+
+2023-09-27 17:57:05,027 INFO start clear all config-info.
+
+2023-09-27 17:57:05,027 WARN clear all config-info failed.
+
+2023-09-27 17:57:05,027 WARN clear all config-info-tenant failed.
+
+2023-09-27 17:57:31,137 INFO notifyConnectTimeout:100
+
+2023-09-27 17:57:31,138 INFO notifySocketTimeout:200
+
+2023-09-27 17:57:31,138 INFO isHealthCheck:true
+
+2023-09-27 17:57:31,138 INFO maxHealthCheckFailCount:12
+
+2023-09-27 17:57:31,139 INFO maxContent:10485760
+
+2023-09-27 18:13:08,682 WARN DumpService start
+
+2023-09-27 18:13:08,682 INFO start clear all config-info.
+
+2023-09-27 18:13:08,683 WARN clear all config-info failed.
+
+2023-09-27 18:13:08,683 WARN clear all config-info-tenant failed.
+
+2023-09-27 18:13:10,315 INFO notifyConnectTimeout:100
+
+2023-09-27 18:13:10,316 INFO notifySocketTimeout:200
+
+2023-09-27 18:13:10,316 INFO isHealthCheck:true
+
+2023-09-27 18:13:10,316 INFO maxHealthCheckFailCount:12
+
+2023-09-27 18:13:10,317 INFO maxContent:10485760
+
+2023-09-27 18:14:12,897 WARN DumpService start
+
+2023-09-27 18:14:12,898 INFO start clear all config-info.
+
+2023-09-27 18:14:12,898 WARN clear all config-info failed.
+
+2023-09-27 18:14:12,899 WARN clear all config-info-tenant failed.
+
+2023-09-27 18:14:14,011 INFO notifyConnectTimeout:100
+
+2023-09-27 18:14:14,013 INFO notifySocketTimeout:200
+
+2023-09-27 18:14:14,014 INFO isHealthCheck:true
+
+2023-09-27 18:14:14,014 INFO maxHealthCheckFailCount:12
+
+2023-09-27 18:14:14,014 INFO maxContent:10485760
+
+2023-09-27 18:29:51,807 WARN DumpService start
+
+2023-09-27 18:29:51,808 INFO start clear all config-info.
+
+2023-09-27 18:29:51,808 WARN clear all config-info failed.
+
+2023-09-27 18:29:51,808 WARN clear all config-info-tenant failed.
+
+2023-09-27 18:29:52,946 INFO notifyConnectTimeout:100
+
+2023-09-27 18:29:52,947 INFO notifySocketTimeout:200
+
+2023-09-27 18:29:52,947 INFO isHealthCheck:true
+
+2023-09-27 18:29:52,947 INFO maxHealthCheckFailCount:12
+
+2023-09-27 18:29:52,947 INFO maxContent:10485760
+
+2023-09-27 18:30:55,760 WARN DumpService start
+
+2023-09-27 18:30:55,761 INFO start clear all config-info.
+
+2023-09-27 18:30:55,762 WARN clear all config-info failed.
+
+2023-09-27 18:30:55,762 WARN clear all config-info-tenant failed.
+
+2023-09-27 18:30:56,912 INFO notifyConnectTimeout:100
+
+2023-09-27 18:30:56,913 INFO notifySocketTimeout:200
+
+2023-09-27 18:30:56,914 INFO isHealthCheck:true
+
+2023-09-27 18:30:56,914 INFO maxHealthCheckFailCount:12
+
+2023-09-27 18:30:56,914 INFO maxContent:10485760
+
+2023-09-27 18:32:30,000 WARN DumpService start
+
+2023-09-27 18:32:30,000 INFO start clear all config-info.
+
+2023-09-27 18:32:30,001 WARN clear all config-info failed.
+
+2023-09-27 18:32:30,001 WARN clear all config-info-tenant failed.
+
+2023-09-27 18:32:31,208 INFO notifyConnectTimeout:100
+
+2023-09-27 18:32:31,209 INFO notifySocketTimeout:200
+
+2023-09-27 18:32:31,209 INFO isHealthCheck:true
+
+2023-09-27 18:32:31,209 INFO maxHealthCheckFailCount:12
+
+2023-09-27 18:32:31,209 INFO maxContent:10485760
+
+2023-09-27 18:41:53,592 WARN DumpService start
+
+2023-09-27 18:41:53,592 INFO start clear all config-info.
+
+2023-09-27 18:41:53,593 WARN clear all config-info failed.
+
+2023-09-27 18:41:53,593 WARN clear all config-info-tenant failed.
+
+2023-09-27 18:41:55,121 INFO notifyConnectTimeout:100
+
+2023-09-27 18:41:55,123 INFO notifySocketTimeout:200
+
+2023-09-27 18:41:55,123 INFO isHealthCheck:true
+
+2023-09-27 18:41:55,123 INFO maxHealthCheckFailCount:12
+
+2023-09-27 18:41:55,123 INFO maxContent:10485760
+
+2023-09-27 18:59:03,641 WARN DumpService start
+
+2023-09-27 18:59:03,641 INFO start clear all config-info.
+
+2023-09-27 18:59:03,641 WARN clear all config-info failed.
+
+2023-09-27 18:59:03,641 WARN clear all config-info-tenant failed.
+
+2023-09-27 18:59:04,831 INFO notifyConnectTimeout:100
+
+2023-09-27 18:59:04,833 INFO notifySocketTimeout:200
+
+2023-09-27 18:59:04,833 INFO isHealthCheck:true
+
+2023-09-27 18:59:04,833 INFO maxHealthCheckFailCount:12
+
+2023-09-27 18:59:04,834 INFO maxContent:10485760
+
+2023-09-27 18:59:17,551 WARN DumpService start
+
+2023-09-27 18:59:17,551 INFO start clear all config-info.
+
+2023-09-27 18:59:17,551 WARN clear all config-info failed.
+
+2023-09-27 18:59:17,551 WARN clear all config-info-tenant failed.
+
+2023-09-27 18:59:18,713 INFO notifyConnectTimeout:100
+
+2023-09-27 18:59:18,714 INFO notifySocketTimeout:200
+
+2023-09-27 18:59:18,715 INFO isHealthCheck:true
+
+2023-09-27 18:59:18,715 INFO maxHealthCheckFailCount:12
+
+2023-09-27 18:59:18,715 INFO maxContent:10485760
+
+2023-09-27 19:14:56,543 WARN DumpService start
+
+2023-09-27 19:14:56,543 INFO start clear all config-info.
+
+2023-09-27 19:14:56,544 WARN clear all config-info failed.
+
+2023-09-27 19:14:56,544 WARN clear all config-info-tenant failed.
+
+2023-09-27 19:30:14,145 INFO notifyConnectTimeout:100
+
+2023-09-27 19:30:14,146 INFO notifySocketTimeout:200
+
+2023-09-27 19:30:14,147 INFO isHealthCheck:true
+
+2023-09-27 19:30:14,147 INFO maxHealthCheckFailCount:12
+
+2023-09-27 19:30:14,147 INFO maxContent:10485760
+
+2023-09-27 19:31:16,814 WARN DumpService start
+
+2023-09-27 19:31:16,815 INFO start clear all config-info.
+
+2023-09-27 19:31:16,815 WARN clear all config-info failed.
+
+2023-09-27 19:31:16,815 WARN clear all config-info-tenant failed.
+
+2023-09-27 19:31:17,922 INFO notifyConnectTimeout:100
+
+2023-09-27 19:31:17,924 INFO notifySocketTimeout:200
+
+2023-09-27 19:31:17,924 INFO isHealthCheck:true
+
+2023-09-27 19:31:17,924 INFO maxHealthCheckFailCount:12
+
+2023-09-27 19:31:17,924 INFO maxContent:10485760
+
+2023-09-27 19:31:30,594 WARN DumpService start
+
+2023-09-27 19:31:30,595 INFO start clear all config-info.
+
+2023-09-27 19:31:30,595 WARN clear all config-info failed.
+
+2023-09-27 19:31:30,595 WARN clear all config-info-tenant failed.
+
+2023-09-27 19:31:31,685 INFO notifyConnectTimeout:100
+
+2023-09-27 19:31:31,687 INFO notifySocketTimeout:200
+
+2023-09-27 19:31:31,687 INFO isHealthCheck:true
+
+2023-09-27 19:31:31,687 INFO maxHealthCheckFailCount:12
+
+2023-09-27 19:31:31,687 INFO maxContent:10485760
+
+2023-09-27 19:42:53,346 WARN DumpService start
+
+2023-09-27 19:42:53,347 INFO start clear all config-info.
+
+2023-09-27 19:42:53,347 WARN clear all config-info failed.
+
+2023-09-27 19:42:53,347 WARN clear all config-info-tenant failed.
+
+2023-09-27 19:42:54,469 INFO notifyConnectTimeout:100
+
+2023-09-27 19:42:54,470 INFO notifySocketTimeout:200
+
+2023-09-27 19:42:54,470 INFO isHealthCheck:true
+
+2023-09-27 19:42:54,470 INFO maxHealthCheckFailCount:12
+
+2023-09-27 19:42:54,470 INFO maxContent:10485760
+
+2023-09-27 19:43:56,917 WARN DumpService start
+
+2023-09-27 19:43:56,918 INFO start clear all config-info.
+
+2023-09-27 19:43:56,918 WARN clear all config-info failed.
+
+2023-09-27 19:43:56,918 WARN clear all config-info-tenant failed.
+
+2023-09-27 19:43:58,038 INFO notifyConnectTimeout:100
+
+2023-09-27 19:43:58,040 INFO notifySocketTimeout:200
+
+2023-09-27 19:43:58,040 INFO isHealthCheck:true
+
+2023-09-27 19:43:58,040 INFO maxHealthCheckFailCount:12
+
+2023-09-27 19:43:58,040 INFO maxContent:10485760
+
+2023-09-27 19:59:36,432 WARN DumpService start
+
+2023-09-27 19:59:36,433 INFO start clear all config-info.
+
+2023-09-27 19:59:36,434 WARN clear all config-info failed.
+
+2023-09-27 19:59:36,434 WARN clear all config-info-tenant failed.
+
+2023-09-27 20:00:02,557 INFO notifyConnectTimeout:100
+
+2023-09-27 20:00:02,558 INFO notifySocketTimeout:200
+
+2023-09-27 20:00:02,558 INFO isHealthCheck:true
+
+2023-09-27 20:00:02,558 INFO maxHealthCheckFailCount:12
+
+2023-09-27 20:00:02,558 INFO maxContent:10485760
+
+2023-09-27 20:00:40,564 WARN DumpService start
+
+2023-09-27 20:00:40,565 INFO start clear all config-info.
+
+2023-09-27 20:00:40,565 WARN clear all config-info failed.
+
+2023-09-27 20:00:40,565 WARN clear all config-info-tenant failed.
+
+2023-09-27 20:01:06,569 INFO notifyConnectTimeout:100
+
+2023-09-27 20:01:06,571 INFO notifySocketTimeout:200
+
+2023-09-27 20:01:06,571 INFO isHealthCheck:true
+
+2023-09-27 20:01:06,571 INFO maxHealthCheckFailCount:12
+
+2023-09-27 20:01:06,571 INFO maxContent:10485760
+
+2023-09-27 20:16:45,237 WARN DumpService start
+
+2023-09-27 20:16:45,238 INFO start clear all config-info.
+
+2023-09-27 20:16:45,239 WARN clear all config-info failed.
+
+2023-09-27 20:16:45,239 WARN clear all config-info-tenant failed.
+
+2023-09-27 20:16:46,376 INFO notifyConnectTimeout:100
+
+2023-09-27 20:16:46,379 INFO notifySocketTimeout:200
+
+2023-09-27 20:16:46,379 INFO isHealthCheck:true
+
+2023-09-27 20:16:46,380 INFO maxHealthCheckFailCount:12
+
+2023-09-27 20:16:46,380 INFO maxContent:10485760
+
+2023-09-27 20:17:23,825 WARN DumpService start
+
+2023-09-27 20:17:23,825 INFO start clear all config-info.
+
+2023-09-27 20:17:23,826 WARN clear all config-info failed.
+
+2023-09-27 20:17:23,826 WARN clear all config-info-tenant failed.
+
+2023-09-27 20:17:24,946 INFO notifyConnectTimeout:100
+
+2023-09-27 20:17:24,948 INFO notifySocketTimeout:200
+
+2023-09-27 20:17:24,948 INFO isHealthCheck:true
+
+2023-09-27 20:17:24,948 INFO maxHealthCheckFailCount:12
+
+2023-09-27 20:17:24,948 INFO maxContent:10485760
+
+2023-09-27 20:18:02,962 WARN DumpService start
+
+2023-09-27 20:18:02,963 INFO start clear all config-info.
+
+2023-09-27 20:18:02,963 WARN clear all config-info failed.
+
+2023-09-27 20:18:02,963 WARN clear all config-info-tenant failed.
+
+2023-09-27 20:18:04,144 INFO notifyConnectTimeout:100
+
+2023-09-27 20:18:04,145 INFO notifySocketTimeout:200
+
+2023-09-27 20:18:04,145 INFO isHealthCheck:true
+
+2023-09-27 20:18:04,146 INFO maxHealthCheckFailCount:12
+
+2023-09-27 20:18:04,146 INFO maxContent:10485760
+
+2023-09-27 20:34:07,918 WARN DumpService start
+
+2023-09-27 20:34:07,919 INFO start clear all config-info.
+
+2023-09-27 20:34:07,919 WARN clear all config-info failed.
+
+2023-09-27 20:34:07,919 WARN clear all config-info-tenant failed.
+
+2023-09-27 20:34:08,993 INFO notifyConnectTimeout:100
+
+2023-09-27 20:34:08,995 INFO notifySocketTimeout:200
+
+2023-09-27 20:34:08,995 INFO isHealthCheck:true
+
+2023-09-27 20:34:08,995 INFO maxHealthCheckFailCount:12
+
+2023-09-27 20:34:08,996 INFO maxContent:10485760
+
+2023-09-27 20:43:50,114 WARN DumpService start
+
+2023-09-27 20:43:50,115 INFO start clear all config-info.
+
+2023-09-27 20:43:50,115 WARN clear all config-info failed.
+
+2023-09-27 20:43:50,115 WARN clear all config-info-tenant failed.
+
+2023-09-27 20:43:51,270 INFO notifyConnectTimeout:100
+
+2023-09-27 20:43:51,271 INFO notifySocketTimeout:200
+
+2023-09-27 20:43:51,271 INFO isHealthCheck:true
+
+2023-09-27 20:43:51,271 INFO maxHealthCheckFailCount:12
+
+2023-09-27 20:43:51,271 INFO maxContent:10485760
+
+2023-09-27 20:44:28,868 WARN DumpService start
+
+2023-09-27 20:44:28,868 INFO start clear all config-info.
+
+2023-09-27 20:44:28,868 WARN clear all config-info failed.
+
+2023-09-27 20:44:28,868 WARN clear all config-info-tenant failed.
+
+2023-09-27 20:44:55,014 INFO notifyConnectTimeout:100
+
+2023-09-27 20:44:55,015 INFO notifySocketTimeout:200
+
+2023-09-27 20:44:55,016 INFO isHealthCheck:true
+
+2023-09-27 20:44:55,016 INFO maxHealthCheckFailCount:12
+
+2023-09-27 20:44:55,016 INFO maxContent:10485760
+
+2023-09-27 21:02:29,887 WARN DumpService start
+
+2023-09-27 21:02:29,887 INFO start clear all config-info.
+
+2023-09-27 21:02:29,888 WARN clear all config-info failed.
+
+2023-09-27 21:02:29,888 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:02:31,110 INFO notifyConnectTimeout:100
+
+2023-09-27 21:02:31,119 INFO notifySocketTimeout:200
+
+2023-09-27 21:02:31,119 INFO isHealthCheck:true
+
+2023-09-27 21:02:31,119 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:02:31,119 INFO maxContent:10485760
+
+2023-09-27 21:02:43,855 WARN DumpService start
+
+2023-09-27 21:02:43,856 INFO start clear all config-info.
+
+2023-09-27 21:02:43,856 WARN clear all config-info failed.
+
+2023-09-27 21:02:43,856 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:02:45,015 INFO notifyConnectTimeout:100
+
+2023-09-27 21:02:45,016 INFO notifySocketTimeout:200
+
+2023-09-27 21:02:45,016 INFO isHealthCheck:true
+
+2023-09-27 21:02:45,016 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:02:45,016 INFO maxContent:10485760
+
+2023-09-27 21:02:57,764 WARN DumpService start
+
+2023-09-27 21:02:57,765 INFO start clear all config-info.
+
+2023-09-27 21:02:57,765 WARN clear all config-info failed.
+
+2023-09-27 21:02:57,765 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:18:24,139 INFO notifyConnectTimeout:100
+
+2023-09-27 21:18:24,140 INFO notifySocketTimeout:200
+
+2023-09-27 21:18:24,140 INFO isHealthCheck:true
+
+2023-09-27 21:18:24,140 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:18:24,140 INFO maxContent:10485760
+
+2023-09-27 21:34:26,329 WARN DumpService start
+
+2023-09-27 21:34:26,329 INFO start clear all config-info.
+
+2023-09-27 21:34:26,330 WARN clear all config-info failed.
+
+2023-09-27 21:34:26,330 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:34:27,474 INFO notifyConnectTimeout:100
+
+2023-09-27 21:34:27,475 INFO notifySocketTimeout:200
+
+2023-09-27 21:34:27,476 INFO isHealthCheck:true
+
+2023-09-27 21:34:27,476 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:34:27,476 INFO maxContent:10485760
+
+2023-09-27 21:35:30,340 WARN DumpService start
+
+2023-09-27 21:35:30,340 INFO start clear all config-info.
+
+2023-09-27 21:35:30,340 WARN clear all config-info failed.
+
+2023-09-27 21:35:30,341 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:35:31,473 INFO notifyConnectTimeout:100
+
+2023-09-27 21:35:31,474 INFO notifySocketTimeout:200
+
+2023-09-27 21:35:31,474 INFO isHealthCheck:true
+
+2023-09-27 21:35:31,475 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:35:31,475 INFO maxContent:10485760
+
+2023-09-27 21:35:44,220 WARN DumpService start
+
+2023-09-27 21:35:44,221 INFO start clear all config-info.
+
+2023-09-27 21:35:44,221 WARN clear all config-info failed.
+
+2023-09-27 21:35:44,221 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:35:45,395 INFO notifyConnectTimeout:100
+
+2023-09-27 21:35:45,396 INFO notifySocketTimeout:200
+
+2023-09-27 21:35:45,396 INFO isHealthCheck:true
+
+2023-09-27 21:35:45,396 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:35:45,397 INFO maxContent:10485760
+
+2023-09-27 21:45:09,864 WARN DumpService start
+
+2023-09-27 21:45:09,865 INFO start clear all config-info.
+
+2023-09-27 21:45:09,866 WARN clear all config-info failed.
+
+2023-09-27 21:45:09,866 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:45:11,398 INFO notifyConnectTimeout:100
+
+2023-09-27 21:45:11,403 INFO notifySocketTimeout:200
+
+2023-09-27 21:45:11,403 INFO isHealthCheck:true
+
+2023-09-27 21:45:11,403 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:45:11,403 INFO maxContent:10485760
+
+2023-09-27 21:53:21,695 WARN DumpService start
+
+2023-09-27 21:53:21,696 INFO start clear all config-info.
+
+2023-09-27 21:53:21,696 WARN clear all config-info failed.
+
+2023-09-27 21:53:21,696 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:53:22,875 INFO notifyConnectTimeout:100
+
+2023-09-27 21:53:22,876 INFO notifySocketTimeout:200
+
+2023-09-27 21:53:22,876 INFO isHealthCheck:true
+
+2023-09-27 21:53:22,876 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:53:22,876 INFO maxContent:10485760
+
+2023-09-27 21:53:35,550 WARN DumpService start
+
+2023-09-27 21:53:35,551 INFO start clear all config-info.
+
+2023-09-27 21:53:35,551 WARN clear all config-info failed.
+
+2023-09-27 21:53:35,552 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:53:36,717 INFO notifyConnectTimeout:100
+
+2023-09-27 21:53:36,718 INFO notifySocketTimeout:200
+
+2023-09-27 21:53:36,718 INFO isHealthCheck:true
+
+2023-09-27 21:53:36,719 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:53:36,719 INFO maxContent:10485760
+
+2023-09-27 21:53:49,404 WARN DumpService start
+
+2023-09-27 21:53:49,405 INFO start clear all config-info.
+
+2023-09-27 21:53:49,405 WARN clear all config-info failed.
+
+2023-09-27 21:53:49,405 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:53:50,537 INFO notifyConnectTimeout:100
+
+2023-09-27 21:53:50,538 INFO notifySocketTimeout:200
+
+2023-09-27 21:53:50,538 INFO isHealthCheck:true
+
+2023-09-27 21:53:50,538 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:53:50,538 INFO maxContent:10485760
+
+2023-09-27 21:54:03,285 WARN DumpService start
+
+2023-09-27 21:54:03,286 INFO start clear all config-info.
+
+2023-09-27 21:54:03,286 WARN clear all config-info failed.
+
+2023-09-27 21:54:03,286 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:54:04,414 INFO notifyConnectTimeout:100
+
+2023-09-27 21:54:04,416 INFO notifySocketTimeout:200
+
+2023-09-27 21:54:04,416 INFO isHealthCheck:true
+
+2023-09-27 21:54:04,416 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:54:04,416 INFO maxContent:10485760
+
+2023-09-27 21:54:17,093 WARN DumpService start
+
+2023-09-27 21:54:17,093 INFO start clear all config-info.
+
+2023-09-27 21:54:17,094 WARN clear all config-info failed.
+
+2023-09-27 21:54:17,094 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:54:18,272 INFO notifyConnectTimeout:100
+
+2023-09-27 21:54:18,274 INFO notifySocketTimeout:200
+
+2023-09-27 21:54:18,274 INFO isHealthCheck:true
+
+2023-09-27 21:54:18,274 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:54:18,274 INFO maxContent:10485760
+
+2023-09-27 21:54:31,002 WARN DumpService start
+
+2023-09-27 21:54:31,003 INFO start clear all config-info.
+
+2023-09-27 21:54:31,004 WARN clear all config-info failed.
+
+2023-09-27 21:54:31,004 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:54:32,208 INFO notifyConnectTimeout:100
+
+2023-09-27 21:54:32,209 INFO notifySocketTimeout:200
+
+2023-09-27 21:54:32,209 INFO isHealthCheck:true
+
+2023-09-27 21:54:32,209 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:54:32,209 INFO maxContent:10485760
+
+2023-09-27 21:54:44,915 WARN DumpService start
+
+2023-09-27 21:54:44,916 INFO start clear all config-info.
+
+2023-09-27 21:54:44,916 WARN clear all config-info failed.
+
+2023-09-27 21:54:44,916 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:54:46,096 INFO notifyConnectTimeout:100
+
+2023-09-27 21:54:46,098 INFO notifySocketTimeout:200
+
+2023-09-27 21:54:46,098 INFO isHealthCheck:true
+
+2023-09-27 21:54:46,098 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:54:46,098 INFO maxContent:10485760
+
+2023-09-27 21:54:58,857 WARN DumpService start
+
+2023-09-27 21:54:58,857 INFO start clear all config-info.
+
+2023-09-27 21:54:58,858 WARN clear all config-info failed.
+
+2023-09-27 21:54:58,858 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:54:59,993 INFO notifyConnectTimeout:100
+
+2023-09-27 21:54:59,995 INFO notifySocketTimeout:200
+
+2023-09-27 21:54:59,995 INFO isHealthCheck:true
+
+2023-09-27 21:54:59,995 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:54:59,995 INFO maxContent:10485760
+
+2023-09-27 21:55:12,770 WARN DumpService start
+
+2023-09-27 21:55:12,770 INFO start clear all config-info.
+
+2023-09-27 21:55:12,771 WARN clear all config-info failed.
+
+2023-09-27 21:55:12,771 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:55:13,881 INFO notifyConnectTimeout:100
+
+2023-09-27 21:55:13,883 INFO notifySocketTimeout:200
+
+2023-09-27 21:55:13,883 INFO isHealthCheck:true
+
+2023-09-27 21:55:13,883 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:55:13,883 INFO maxContent:10485760
+
+2023-09-27 21:55:26,642 WARN DumpService start
+
+2023-09-27 21:55:26,642 INFO start clear all config-info.
+
+2023-09-27 21:55:26,643 WARN clear all config-info failed.
+
+2023-09-27 21:55:26,643 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:55:27,788 INFO notifyConnectTimeout:100
+
+2023-09-27 21:55:27,789 INFO notifySocketTimeout:200
+
+2023-09-27 21:55:27,789 INFO isHealthCheck:true
+
+2023-09-27 21:55:27,789 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:55:27,789 INFO maxContent:10485760
+
+2023-09-27 21:55:40,484 WARN DumpService start
+
+2023-09-27 21:55:40,485 INFO start clear all config-info.
+
+2023-09-27 21:55:40,485 WARN clear all config-info failed.
+
+2023-09-27 21:55:40,485 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:55:41,580 INFO notifyConnectTimeout:100
+
+2023-09-27 21:55:41,582 INFO notifySocketTimeout:200
+
+2023-09-27 21:55:41,582 INFO isHealthCheck:true
+
+2023-09-27 21:55:41,582 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:55:41,582 INFO maxContent:10485760
+
+2023-09-27 21:55:54,263 WARN DumpService start
+
+2023-09-27 21:55:54,263 INFO start clear all config-info.
+
+2023-09-27 21:55:54,264 WARN clear all config-info failed.
+
+2023-09-27 21:55:54,264 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:55:55,416 INFO notifyConnectTimeout:100
+
+2023-09-27 21:55:55,418 INFO notifySocketTimeout:200
+
+2023-09-27 21:55:55,418 INFO isHealthCheck:true
+
+2023-09-27 21:55:55,419 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:55:55,419 INFO maxContent:10485760
+
+2023-09-27 21:56:08,088 WARN DumpService start
+
+2023-09-27 21:56:08,089 INFO start clear all config-info.
+
+2023-09-27 21:56:08,089 WARN clear all config-info failed.
+
+2023-09-27 21:56:08,089 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:56:09,289 INFO notifyConnectTimeout:100
+
+2023-09-27 21:56:09,290 INFO notifySocketTimeout:200
+
+2023-09-27 21:56:09,290 INFO isHealthCheck:true
+
+2023-09-27 21:56:09,290 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:56:09,290 INFO maxContent:10485760
+
+2023-09-27 21:56:22,025 WARN DumpService start
+
+2023-09-27 21:56:22,026 INFO start clear all config-info.
+
+2023-09-27 21:56:22,026 WARN clear all config-info failed.
+
+2023-09-27 21:56:22,026 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:56:23,105 INFO notifyConnectTimeout:100
+
+2023-09-27 21:56:23,106 INFO notifySocketTimeout:200
+
+2023-09-27 21:56:23,107 INFO isHealthCheck:true
+
+2023-09-27 21:56:23,107 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:56:23,107 INFO maxContent:10485760
+
+2023-09-27 21:56:35,876 WARN DumpService start
+
+2023-09-27 21:56:35,877 INFO start clear all config-info.
+
+2023-09-27 21:56:35,877 WARN clear all config-info failed.
+
+2023-09-27 21:56:35,877 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:56:37,103 INFO notifyConnectTimeout:100
+
+2023-09-27 21:56:37,105 INFO notifySocketTimeout:200
+
+2023-09-27 21:56:37,105 INFO isHealthCheck:true
+
+2023-09-27 21:56:37,105 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:56:37,105 INFO maxContent:10485760
+
+2023-09-27 21:56:49,886 WARN DumpService start
+
+2023-09-27 21:56:49,886 INFO start clear all config-info.
+
+2023-09-27 21:56:49,887 WARN clear all config-info failed.
+
+2023-09-27 21:56:49,887 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:56:51,036 INFO notifyConnectTimeout:100
+
+2023-09-27 21:56:51,037 INFO notifySocketTimeout:200
+
+2023-09-27 21:56:51,037 INFO isHealthCheck:true
+
+2023-09-27 21:56:51,038 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:56:51,038 INFO maxContent:10485760
+
+2023-09-27 21:57:03,687 WARN DumpService start
+
+2023-09-27 21:57:03,687 INFO start clear all config-info.
+
+2023-09-27 21:57:03,688 WARN clear all config-info failed.
+
+2023-09-27 21:57:03,688 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:57:04,837 INFO notifyConnectTimeout:100
+
+2023-09-27 21:57:04,838 INFO notifySocketTimeout:200
+
+2023-09-27 21:57:04,839 INFO isHealthCheck:true
+
+2023-09-27 21:57:04,839 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:57:04,839 INFO maxContent:10485760
+
+2023-09-27 21:57:17,476 WARN DumpService start
+
+2023-09-27 21:57:17,477 INFO start clear all config-info.
+
+2023-09-27 21:57:17,477 WARN clear all config-info failed.
+
+2023-09-27 21:57:17,477 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:57:18,590 INFO notifyConnectTimeout:100
+
+2023-09-27 21:57:18,592 INFO notifySocketTimeout:200
+
+2023-09-27 21:57:18,592 INFO isHealthCheck:true
+
+2023-09-27 21:57:18,592 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:57:18,592 INFO maxContent:10485760
+
+2023-09-27 21:57:31,269 WARN DumpService start
+
+2023-09-27 21:57:31,271 INFO start clear all config-info.
+
+2023-09-27 21:57:31,272 WARN clear all config-info failed.
+
+2023-09-27 21:57:31,273 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:57:32,478 INFO notifyConnectTimeout:100
+
+2023-09-27 21:57:32,480 INFO notifySocketTimeout:200
+
+2023-09-27 21:57:32,480 INFO isHealthCheck:true
+
+2023-09-27 21:57:32,480 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:57:32,480 INFO maxContent:10485760
+
+2023-09-27 21:57:45,145 WARN DumpService start
+
+2023-09-27 21:57:45,146 INFO start clear all config-info.
+
+2023-09-27 21:57:45,146 WARN clear all config-info failed.
+
+2023-09-27 21:57:45,146 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:57:46,256 INFO notifyConnectTimeout:100
+
+2023-09-27 21:57:46,257 INFO notifySocketTimeout:200
+
+2023-09-27 21:57:46,258 INFO isHealthCheck:true
+
+2023-09-27 21:57:46,258 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:57:46,258 INFO maxContent:10485760
+
+2023-09-27 21:57:58,966 WARN DumpService start
+
+2023-09-27 21:57:58,967 INFO start clear all config-info.
+
+2023-09-27 21:57:58,968 WARN clear all config-info failed.
+
+2023-09-27 21:57:58,968 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:58:00,155 INFO notifyConnectTimeout:100
+
+2023-09-27 21:58:00,157 INFO notifySocketTimeout:200
+
+2023-09-27 21:58:00,157 INFO isHealthCheck:true
+
+2023-09-27 21:58:00,158 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:58:00,158 INFO maxContent:10485760
+
+2023-09-27 21:58:12,881 WARN DumpService start
+
+2023-09-27 21:58:12,882 INFO start clear all config-info.
+
+2023-09-27 21:58:12,882 WARN clear all config-info failed.
+
+2023-09-27 21:58:12,882 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:58:14,012 INFO notifyConnectTimeout:100
+
+2023-09-27 21:58:14,013 INFO notifySocketTimeout:200
+
+2023-09-27 21:58:14,014 INFO isHealthCheck:true
+
+2023-09-27 21:58:14,014 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:58:14,014 INFO maxContent:10485760
+
+2023-09-27 21:58:26,742 WARN DumpService start
+
+2023-09-27 21:58:26,742 INFO start clear all config-info.
+
+2023-09-27 21:58:26,743 WARN clear all config-info failed.
+
+2023-09-27 21:58:26,743 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:58:27,895 INFO notifyConnectTimeout:100
+
+2023-09-27 21:58:27,896 INFO notifySocketTimeout:200
+
+2023-09-27 21:58:27,896 INFO isHealthCheck:true
+
+2023-09-27 21:58:27,896 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:58:27,896 INFO maxContent:10485760
+
+2023-09-27 21:58:40,561 WARN DumpService start
+
+2023-09-27 21:58:40,561 INFO start clear all config-info.
+
+2023-09-27 21:58:40,562 WARN clear all config-info failed.
+
+2023-09-27 21:58:40,562 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:58:41,691 INFO notifyConnectTimeout:100
+
+2023-09-27 21:58:41,692 INFO notifySocketTimeout:200
+
+2023-09-27 21:58:41,692 INFO isHealthCheck:true
+
+2023-09-27 21:58:41,692 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:58:41,692 INFO maxContent:10485760
+
+2023-09-27 21:58:54,362 WARN DumpService start
+
+2023-09-27 21:58:54,362 INFO start clear all config-info.
+
+2023-09-27 21:58:54,363 WARN clear all config-info failed.
+
+2023-09-27 21:58:54,363 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:58:55,475 INFO notifyConnectTimeout:100
+
+2023-09-27 21:58:55,477 INFO notifySocketTimeout:200
+
+2023-09-27 21:58:55,477 INFO isHealthCheck:true
+
+2023-09-27 21:58:55,477 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:58:55,477 INFO maxContent:10485760
+
+2023-09-27 21:59:08,097 WARN DumpService start
+
+2023-09-27 21:59:08,098 INFO start clear all config-info.
+
+2023-09-27 21:59:08,098 WARN clear all config-info failed.
+
+2023-09-27 21:59:08,098 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:59:09,287 INFO notifyConnectTimeout:100
+
+2023-09-27 21:59:09,288 INFO notifySocketTimeout:200
+
+2023-09-27 21:59:09,288 INFO isHealthCheck:true
+
+2023-09-27 21:59:09,289 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:59:09,289 INFO maxContent:10485760
+
+2023-09-27 21:59:21,950 WARN DumpService start
+
+2023-09-27 21:59:21,950 INFO start clear all config-info.
+
+2023-09-27 21:59:21,951 WARN clear all config-info failed.
+
+2023-09-27 21:59:21,951 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:59:23,083 INFO notifyConnectTimeout:100
+
+2023-09-27 21:59:23,084 INFO notifySocketTimeout:200
+
+2023-09-27 21:59:23,084 INFO isHealthCheck:true
+
+2023-09-27 21:59:23,084 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:59:23,085 INFO maxContent:10485760
+
+2023-09-27 21:59:35,721 WARN DumpService start
+
+2023-09-27 21:59:35,722 INFO start clear all config-info.
+
+2023-09-27 21:59:35,722 WARN clear all config-info failed.
+
+2023-09-27 21:59:35,722 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:59:36,807 INFO notifyConnectTimeout:100
+
+2023-09-27 21:59:36,809 INFO notifySocketTimeout:200
+
+2023-09-27 21:59:36,809 INFO isHealthCheck:true
+
+2023-09-27 21:59:36,809 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:59:36,809 INFO maxContent:10485760
+
+2023-09-27 21:59:49,474 WARN DumpService start
+
+2023-09-27 21:59:49,476 INFO start clear all config-info.
+
+2023-09-27 21:59:49,476 WARN clear all config-info failed.
+
+2023-09-27 21:59:49,476 WARN clear all config-info-tenant failed.
+
+2023-09-27 21:59:50,595 INFO notifyConnectTimeout:100
+
+2023-09-27 21:59:50,596 INFO notifySocketTimeout:200
+
+2023-09-27 21:59:50,596 INFO isHealthCheck:true
+
+2023-09-27 21:59:50,596 INFO maxHealthCheckFailCount:12
+
+2023-09-27 21:59:50,596 INFO maxContent:10485760
+
+2023-09-27 22:00:03,212 WARN DumpService start
+
+2023-09-27 22:00:03,212 INFO start clear all config-info.
+
+2023-09-27 22:00:03,213 WARN clear all config-info failed.
+
+2023-09-27 22:00:03,213 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:00:04,341 INFO notifyConnectTimeout:100
+
+2023-09-27 22:00:04,342 INFO notifySocketTimeout:200
+
+2023-09-27 22:00:04,342 INFO isHealthCheck:true
+
+2023-09-27 22:00:04,342 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:00:04,342 INFO maxContent:10485760
+
+2023-09-27 22:00:16,897 WARN DumpService start
+
+2023-09-27 22:00:16,898 INFO start clear all config-info.
+
+2023-09-27 22:00:16,898 WARN clear all config-info failed.
+
+2023-09-27 22:00:16,898 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:00:17,997 INFO notifyConnectTimeout:100
+
+2023-09-27 22:00:17,999 INFO notifySocketTimeout:200
+
+2023-09-27 22:00:17,999 INFO isHealthCheck:true
+
+2023-09-27 22:00:17,999 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:00:17,999 INFO maxContent:10485760
+
+2023-09-27 22:00:30,622 WARN DumpService start
+
+2023-09-27 22:00:30,622 INFO start clear all config-info.
+
+2023-09-27 22:00:30,622 WARN clear all config-info failed.
+
+2023-09-27 22:00:30,622 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:00:31,747 INFO notifyConnectTimeout:100
+
+2023-09-27 22:00:31,749 INFO notifySocketTimeout:200
+
+2023-09-27 22:00:31,749 INFO isHealthCheck:true
+
+2023-09-27 22:00:31,750 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:00:31,750 INFO maxContent:10485760
+
+2023-09-27 22:00:44,546 WARN DumpService start
+
+2023-09-27 22:00:44,546 INFO start clear all config-info.
+
+2023-09-27 22:00:44,547 WARN clear all config-info failed.
+
+2023-09-27 22:00:44,547 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:00:45,746 INFO notifyConnectTimeout:100
+
+2023-09-27 22:00:45,747 INFO notifySocketTimeout:200
+
+2023-09-27 22:00:45,747 INFO isHealthCheck:true
+
+2023-09-27 22:00:45,747 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:00:45,747 INFO maxContent:10485760
+
+2023-09-27 22:00:58,385 WARN DumpService start
+
+2023-09-27 22:00:58,386 INFO start clear all config-info.
+
+2023-09-27 22:00:58,386 WARN clear all config-info failed.
+
+2023-09-27 22:00:58,386 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:00:59,543 INFO notifyConnectTimeout:100
+
+2023-09-27 22:00:59,544 INFO notifySocketTimeout:200
+
+2023-09-27 22:00:59,544 INFO isHealthCheck:true
+
+2023-09-27 22:00:59,544 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:00:59,544 INFO maxContent:10485760
+
+2023-09-27 22:01:12,509 WARN DumpService start
+
+2023-09-27 22:01:12,509 INFO start clear all config-info.
+
+2023-09-27 22:01:12,510 WARN clear all config-info failed.
+
+2023-09-27 22:01:12,510 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:01:13,692 INFO notifyConnectTimeout:100
+
+2023-09-27 22:01:13,694 INFO notifySocketTimeout:200
+
+2023-09-27 22:01:13,694 INFO isHealthCheck:true
+
+2023-09-27 22:01:13,695 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:01:13,695 INFO maxContent:10485760
+
+2023-09-27 22:01:26,258 WARN DumpService start
+
+2023-09-27 22:01:26,259 INFO start clear all config-info.
+
+2023-09-27 22:01:26,259 WARN clear all config-info failed.
+
+2023-09-27 22:01:26,259 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:01:27,423 INFO notifyConnectTimeout:100
+
+2023-09-27 22:01:27,425 INFO notifySocketTimeout:200
+
+2023-09-27 22:01:27,425 INFO isHealthCheck:true
+
+2023-09-27 22:01:27,425 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:01:27,425 INFO maxContent:10485760
+
+2023-09-27 22:01:40,374 WARN DumpService start
+
+2023-09-27 22:01:40,375 INFO start clear all config-info.
+
+2023-09-27 22:01:40,375 WARN clear all config-info failed.
+
+2023-09-27 22:01:40,375 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:01:41,537 INFO notifyConnectTimeout:100
+
+2023-09-27 22:01:41,539 INFO notifySocketTimeout:200
+
+2023-09-27 22:01:41,539 INFO isHealthCheck:true
+
+2023-09-27 22:01:41,539 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:01:41,539 INFO maxContent:10485760
+
+2023-09-27 22:01:54,185 WARN DumpService start
+
+2023-09-27 22:01:54,185 INFO start clear all config-info.
+
+2023-09-27 22:01:54,186 WARN clear all config-info failed.
+
+2023-09-27 22:01:54,186 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:01:55,298 INFO notifyConnectTimeout:100
+
+2023-09-27 22:01:55,299 INFO notifySocketTimeout:200
+
+2023-09-27 22:01:55,299 INFO isHealthCheck:true
+
+2023-09-27 22:01:55,299 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:01:55,299 INFO maxContent:10485760
+
+2023-09-27 22:02:08,094 WARN DumpService start
+
+2023-09-27 22:02:08,095 INFO start clear all config-info.
+
+2023-09-27 22:02:08,095 WARN clear all config-info failed.
+
+2023-09-27 22:02:08,096 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:02:09,250 INFO notifyConnectTimeout:100
+
+2023-09-27 22:02:09,251 INFO notifySocketTimeout:200
+
+2023-09-27 22:02:09,251 INFO isHealthCheck:true
+
+2023-09-27 22:02:09,251 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:02:09,252 INFO maxContent:10485760
+
+2023-09-27 22:02:22,541 WARN DumpService start
+
+2023-09-27 22:02:22,542 INFO start clear all config-info.
+
+2023-09-27 22:02:22,543 WARN clear all config-info failed.
+
+2023-09-27 22:02:22,543 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:02:23,640 INFO notifyConnectTimeout:100
+
+2023-09-27 22:02:23,642 INFO notifySocketTimeout:200
+
+2023-09-27 22:02:23,642 INFO isHealthCheck:true
+
+2023-09-27 22:02:23,642 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:02:23,642 INFO maxContent:10485760
+
+2023-09-27 22:02:36,319 WARN DumpService start
+
+2023-09-27 22:02:36,319 INFO start clear all config-info.
+
+2023-09-27 22:02:36,320 WARN clear all config-info failed.
+
+2023-09-27 22:02:36,321 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:02:37,433 INFO notifyConnectTimeout:100
+
+2023-09-27 22:02:37,435 INFO notifySocketTimeout:200
+
+2023-09-27 22:02:37,435 INFO isHealthCheck:true
+
+2023-09-27 22:02:37,435 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:02:37,435 INFO maxContent:10485760
+
+2023-09-27 22:02:50,269 WARN DumpService start
+
+2023-09-27 22:02:50,270 INFO start clear all config-info.
+
+2023-09-27 22:02:50,271 WARN clear all config-info failed.
+
+2023-09-27 22:02:50,271 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:02:51,410 INFO notifyConnectTimeout:100
+
+2023-09-27 22:02:51,412 INFO notifySocketTimeout:200
+
+2023-09-27 22:02:51,412 INFO isHealthCheck:true
+
+2023-09-27 22:02:51,412 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:02:51,412 INFO maxContent:10485760
+
+2023-09-27 22:03:04,088 WARN DumpService start
+
+2023-09-27 22:03:04,089 INFO start clear all config-info.
+
+2023-09-27 22:03:04,089 WARN clear all config-info failed.
+
+2023-09-27 22:03:04,089 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:03:05,206 INFO notifyConnectTimeout:100
+
+2023-09-27 22:03:05,207 INFO notifySocketTimeout:200
+
+2023-09-27 22:03:05,207 INFO isHealthCheck:true
+
+2023-09-27 22:03:05,207 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:03:05,207 INFO maxContent:10485760
+
+2023-09-27 22:03:18,104 WARN DumpService start
+
+2023-09-27 22:03:18,105 INFO start clear all config-info.
+
+2023-09-27 22:03:18,105 WARN clear all config-info failed.
+
+2023-09-27 22:03:18,105 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:03:19,280 INFO notifyConnectTimeout:100
+
+2023-09-27 22:03:19,282 INFO notifySocketTimeout:200
+
+2023-09-27 22:03:19,282 INFO isHealthCheck:true
+
+2023-09-27 22:03:19,282 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:03:19,282 INFO maxContent:10485760
+
+2023-09-27 22:03:31,897 WARN DumpService start
+
+2023-09-27 22:03:31,898 INFO start clear all config-info.
+
+2023-09-27 22:03:31,898 WARN clear all config-info failed.
+
+2023-09-27 22:03:31,899 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:03:33,171 INFO notifyConnectTimeout:100
+
+2023-09-27 22:03:33,172 INFO notifySocketTimeout:200
+
+2023-09-27 22:03:33,172 INFO isHealthCheck:true
+
+2023-09-27 22:03:33,172 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:03:33,172 INFO maxContent:10485760
+
+2023-09-27 22:03:46,004 WARN DumpService start
+
+2023-09-27 22:03:46,005 INFO start clear all config-info.
+
+2023-09-27 22:03:46,006 WARN clear all config-info failed.
+
+2023-09-27 22:03:46,006 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:03:47,152 INFO notifyConnectTimeout:100
+
+2023-09-27 22:03:47,153 INFO notifySocketTimeout:200
+
+2023-09-27 22:03:47,153 INFO isHealthCheck:true
+
+2023-09-27 22:03:47,153 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:03:47,153 INFO maxContent:10485760
+
+2023-09-27 22:04:00,057 WARN DumpService start
+
+2023-09-27 22:04:00,058 INFO start clear all config-info.
+
+2023-09-27 22:04:00,058 WARN clear all config-info failed.
+
+2023-09-27 22:04:00,058 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:04:01,183 INFO notifyConnectTimeout:100
+
+2023-09-27 22:04:01,184 INFO notifySocketTimeout:200
+
+2023-09-27 22:04:01,184 INFO isHealthCheck:true
+
+2023-09-27 22:04:01,184 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:04:01,184 INFO maxContent:10485760
+
+2023-09-27 22:04:14,102 WARN DumpService start
+
+2023-09-27 22:04:14,102 INFO start clear all config-info.
+
+2023-09-27 22:04:14,103 WARN clear all config-info failed.
+
+2023-09-27 22:04:14,103 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:04:15,257 INFO notifyConnectTimeout:100
+
+2023-09-27 22:04:15,259 INFO notifySocketTimeout:200
+
+2023-09-27 22:04:15,259 INFO isHealthCheck:true
+
+2023-09-27 22:04:15,259 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:04:15,259 INFO maxContent:10485760
+
+2023-09-27 22:04:28,018 WARN DumpService start
+
+2023-09-27 22:04:28,018 INFO start clear all config-info.
+
+2023-09-27 22:04:28,019 WARN clear all config-info failed.
+
+2023-09-27 22:04:28,019 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:04:29,162 INFO notifyConnectTimeout:100
+
+2023-09-27 22:04:29,163 INFO notifySocketTimeout:200
+
+2023-09-27 22:04:29,164 INFO isHealthCheck:true
+
+2023-09-27 22:04:29,164 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:04:29,164 INFO maxContent:10485760
+
+2023-09-27 22:04:41,997 WARN DumpService start
+
+2023-09-27 22:04:41,998 INFO start clear all config-info.
+
+2023-09-27 22:04:41,999 WARN clear all config-info failed.
+
+2023-09-27 22:04:41,999 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:04:43,190 INFO notifyConnectTimeout:100
+
+2023-09-27 22:04:43,191 INFO notifySocketTimeout:200
+
+2023-09-27 22:04:43,192 INFO isHealthCheck:true
+
+2023-09-27 22:04:43,192 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:04:43,192 INFO maxContent:10485760
+
+2023-09-27 22:04:55,815 WARN DumpService start
+
+2023-09-27 22:04:55,815 INFO start clear all config-info.
+
+2023-09-27 22:04:55,815 WARN clear all config-info failed.
+
+2023-09-27 22:04:55,816 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:04:56,970 INFO notifyConnectTimeout:100
+
+2023-09-27 22:04:56,971 INFO notifySocketTimeout:200
+
+2023-09-27 22:04:56,971 INFO isHealthCheck:true
+
+2023-09-27 22:04:56,971 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:04:56,971 INFO maxContent:10485760
+
+2023-09-27 22:05:10,010 WARN DumpService start
+
+2023-09-27 22:05:10,010 INFO start clear all config-info.
+
+2023-09-27 22:05:10,011 WARN clear all config-info failed.
+
+2023-09-27 22:05:10,011 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:05:11,123 INFO notifyConnectTimeout:100
+
+2023-09-27 22:05:11,124 INFO notifySocketTimeout:200
+
+2023-09-27 22:05:11,124 INFO isHealthCheck:true
+
+2023-09-27 22:05:11,124 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:05:11,124 INFO maxContent:10485760
+
+2023-09-27 22:05:23,992 WARN DumpService start
+
+2023-09-27 22:05:23,992 INFO start clear all config-info.
+
+2023-09-27 22:05:23,993 WARN clear all config-info failed.
+
+2023-09-27 22:05:23,993 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:05:25,112 INFO notifyConnectTimeout:100
+
+2023-09-27 22:05:25,113 INFO notifySocketTimeout:200
+
+2023-09-27 22:05:25,113 INFO isHealthCheck:true
+
+2023-09-27 22:05:25,113 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:05:25,113 INFO maxContent:10485760
+
+2023-09-27 22:05:37,986 WARN DumpService start
+
+2023-09-27 22:05:37,986 INFO start clear all config-info.
+
+2023-09-27 22:05:37,987 WARN clear all config-info failed.
+
+2023-09-27 22:05:37,987 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:05:39,363 INFO notifyConnectTimeout:100
+
+2023-09-27 22:05:39,365 INFO notifySocketTimeout:200
+
+2023-09-27 22:05:39,365 INFO isHealthCheck:true
+
+2023-09-27 22:05:39,365 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:05:39,365 INFO maxContent:10485760
+
+2023-09-27 22:05:52,128 WARN DumpService start
+
+2023-09-27 22:05:52,128 INFO start clear all config-info.
+
+2023-09-27 22:05:52,128 WARN clear all config-info failed.
+
+2023-09-27 22:05:52,128 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:05:53,329 INFO notifyConnectTimeout:100
+
+2023-09-27 22:05:53,331 INFO notifySocketTimeout:200
+
+2023-09-27 22:05:53,331 INFO isHealthCheck:true
+
+2023-09-27 22:05:53,331 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:05:53,331 INFO maxContent:10485760
+
+2023-09-27 22:06:06,012 WARN DumpService start
+
+2023-09-27 22:06:06,012 INFO start clear all config-info.
+
+2023-09-27 22:06:06,012 WARN clear all config-info failed.
+
+2023-09-27 22:06:06,013 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:06:07,157 INFO notifyConnectTimeout:100
+
+2023-09-27 22:06:07,158 INFO notifySocketTimeout:200
+
+2023-09-27 22:06:07,158 INFO isHealthCheck:true
+
+2023-09-27 22:06:07,158 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:06:07,158 INFO maxContent:10485760
+
+2023-09-27 22:06:19,870 WARN DumpService start
+
+2023-09-27 22:06:19,871 INFO start clear all config-info.
+
+2023-09-27 22:06:19,871 WARN clear all config-info failed.
+
+2023-09-27 22:06:19,871 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:06:21,001 INFO notifyConnectTimeout:100
+
+2023-09-27 22:06:21,003 INFO notifySocketTimeout:200
+
+2023-09-27 22:06:21,003 INFO isHealthCheck:true
+
+2023-09-27 22:06:21,003 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:06:21,003 INFO maxContent:10485760
+
+2023-09-27 22:06:33,986 WARN DumpService start
+
+2023-09-27 22:06:33,986 INFO start clear all config-info.
+
+2023-09-27 22:06:33,987 WARN clear all config-info failed.
+
+2023-09-27 22:06:33,987 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:06:35,340 INFO notifyConnectTimeout:100
+
+2023-09-27 22:06:35,341 INFO notifySocketTimeout:200
+
+2023-09-27 22:06:35,341 INFO isHealthCheck:true
+
+2023-09-27 22:06:35,341 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:06:35,341 INFO maxContent:10485760
+
+2023-09-27 22:06:48,174 WARN DumpService start
+
+2023-09-27 22:06:48,175 INFO start clear all config-info.
+
+2023-09-27 22:06:48,175 WARN clear all config-info failed.
+
+2023-09-27 22:06:48,175 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:06:49,301 INFO notifyConnectTimeout:100
+
+2023-09-27 22:06:49,303 INFO notifySocketTimeout:200
+
+2023-09-27 22:06:49,303 INFO isHealthCheck:true
+
+2023-09-27 22:06:49,303 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:06:49,303 INFO maxContent:10485760
+
+2023-09-27 22:07:02,028 WARN DumpService start
+
+2023-09-27 22:07:02,028 INFO start clear all config-info.
+
+2023-09-27 22:07:02,029 WARN clear all config-info failed.
+
+2023-09-27 22:07:02,029 WARN clear all config-info-tenant failed.
+
+2023-09-27 22:07:03,172 INFO notifyConnectTimeout:100
+
+2023-09-27 22:07:03,173 INFO notifySocketTimeout:200
+
+2023-09-27 22:07:03,173 INFO isHealthCheck:true
+
+2023-09-27 22:07:03,174 INFO maxHealthCheckFailCount:12
+
+2023-09-27 22:07:03,174 INFO maxContent:10485760
+

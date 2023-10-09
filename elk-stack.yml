@@ -1,0 +1,49 @@
+version: '3'
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.15.0
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - ES_JAVA_OPTS=-Xmx256m -Xms256m  # 设置Elasticsearch容器的堆内存
+    networks:
+      dev:
+        ipv4_address: 172.22.0.2
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+
+  logstash:
+    image: docker.elastic.co/logstash/logstash:7.15.0
+    container_name: logstash
+    volumes:
+      - ./elk-stack/logstash-config:/usr/share/logstash/pipeline
+    ports:
+      - "5000:5000"
+      - "9600:9600"
+    environment:
+      - "ELASTICSEARCH_HOST=elasticsearch"
+      - "ELASTICSEARCH_PORT=9200"
+      - LS_JAVA_OPTS=-Xmx256m -Xms256m  # 设置Logstash容器的堆内存
+    networks:
+      dev:
+        ipv4_address: 172.22.0.3
+  kibana:
+    image: docker.elastic.co/kibana/kibana:7.15.0
+    container_name: kibana
+    ports:
+      - "5601:5601"
+    environment:
+      - "ELASTICSEARCH_HOSTS=http://elasticsearch:9200"
+      - NODE_OPTIONS=--max-old-space-size=300 # 设置Kibana容器的堆内存
+    networks:
+      dev:
+        ipv4_address: 172.22.0.4
+volumes:
+  esdata:
+
+networks:
+  dev:
+    external: true
