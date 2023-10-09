@@ -1,4 +1,0 @@
-2023-10-07 13:53:42,215 WARN [master-db] jdbc:mysql://172.22.0.5:3306/nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useSSL=false
-
-2023-10-07 13:53:42,630 WARN isQuickStart:false
-
