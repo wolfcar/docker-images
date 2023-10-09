@@ -1,0 +1,25 @@
+version: '3'
+services:
+    apollo-quick-start:
+        platform: linux/arm64
+        image: nobodyiam/apollo-quick-start
+        container_name: apollo-quick-start
+        ports:
+            - "18080:8080"
+            - "8070:8070"
+            - "8090:8090"
+        environment:
+            JAVA_OPTS: '-Xms128m -Xmx225m -Xmn64m -Xss256k -XX:MetaspaceSize=32m -XX:MaxMetaspaceSize=128m'
+            APOLLO_CONFIG_DB_USERNAME: 'root'
+            APOLLO_CONFIG_DB_PASSWORD: '123456'
+            APOLLO_PORTAL_DB_USERNAME: 'root'
+            APOLLO_PORTAL_DB_PASSWORD: '123456'
+        extra_hosts:
+            - "apollo-db:172.22.0.5"
+        networks:
+            dev:
+                ipv4_address: 172.22.0.7
+
+networks:
+    dev:
+        external: true
